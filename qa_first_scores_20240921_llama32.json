@@ -1,0 +1,894 @@
+[
+    {
+        "context": "Double exposure with hands holding money in the jar and glasses, calculator and pen on financial ... [+] papers background. save money for investment concept\nCareful research done by PhD economists conclude we face a huge retirement shortfall. We are about eight to nine years away from Social Security's inability to pay full benefits; all boomers are past age 60, and the typical Gen Y and Millennial is predicted to do a little worse or much worse than the cohorts of their big brothers, sisters, and parents. The erosion in retirement security is worse for the bottom 60% or so of the earnings distribution. Yes it's a crisis.",
+        "question": "When are we expected to face a huge retirement shortfall?\n",
+        "answer": "We are about eight to nine years away from Social Security's inability to pay full benefits.",
+        "groundedness_score": 2,
+        "groundedness_eval": "The answer is somewhat ambiguous because the question asks for a specific year, but the context only mentions a general timeframe of \"eight to nine years\" before Social Security's inability to pay full benefits. This timeframe does not provide a clear answer to the question. "
+    },
+    {
+        "context": "Referring to Britain's exit from the European Union, the 67-year-old Fry told Der Standard that becoming an EU citizen again had enabled him to \"to stick my tongue out at Brexit\", according to the German text of his interview.\nThis month's election will be the first time that thousands of people who took advantage of the law changes allowing them to become dual nationals can vote in an Austrian general election.\nAbout 33,000 people have acquired that right over the last four years, according to the Austrian government.\nThe election looks set to be very close, with the opposition far-right Freedom Party (FPO) running just ahead of the ruling conservative Austrian People's Party (OVP) in opinion polls. No party is expected to win an outright majority.\nThe legislation to change Austrian citizenship rules was put forward by an OVP-FPO coalition before that government unravelled in 2019 due to an influence-peddling scandal. It was passed during the ensuing caretaker administration.",
+        "question": "How many people have acquired the right to become dual nationals over the last four years?\n",
+        "answer": "About 33,000 people.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context provides a specific number of people who acquired the right to become dual nationals over the last four years. The question is clear and unambiguous, and the answer can be deduced from the provided information.\n\n\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is not very useful as it does not provide any context or information about the implications of dual nationality for market entry into Germany. It only gives a very specific and limited piece of information.\n"
+    },
+    {
+        "context": "Indian Creek eventually won the turf war, and the new police station was built. Tensions with Surfside seem to have cooled, but the questions of public funding and public access remain. The bridge received $875,000 in government grants in 2008, and last November the town requested another $400,000 for repairs. But when I visit the police station at the bridge and ask if I can walk across, I'm barred from entering.\nIndian Creek's growing wealth and security mirror trends among the global superrich. Over the past four years, billionaire wealth has grown by 88%. In April, America's 806 billionaires boasted a net worth of $5.8 trillion, greater than the annual GDPs of Japan, Germany, and India \u2014 and more wealth than the bottom half of America. Miami is frequently said to be the US city with the most extreme income inequality.",
+        "question": "How much did the bridge receive in government grants in 2008?\n",
+        "answer": "The bridge received $875,000 in government grants in 2008.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context explicitly states that the bridge received $875,000 in government grants in 2008. The question is clear and unambiguous, and the answer can be directly extracted from the context.\n\n\n"
+    },
+    {
+        "context": "Mr. Carlson is in the midst of his first live tour, a national, monthlong run of shows with some of the most well-known and controversial figures in conservative politics. His guests have included Charlie Kirk, the founder of Turning Point Action, and media personalities such as Glenn Beck and Dan Bongino.\nLater this month, Mr. Carlson will be joined by Alex Jones, a conspiracy theorist who has been ordered to pay over $1.4 billion in defamation damages to the families of the victims of the mass shooting at Sandy Hook Elementary School in 2012; Representative Marjorie Taylor Greene of Georgia; and Donald Trump Jr., the former president's eldest child and the host of the podcast 'Triggered.'",
+        "question": "Who is the host of the podcast 'Triggered'?\n",
+        "answer": "Donald Trump Jr."
+    },
+    {
+        "context": "Despite the Billionaire Bunker's fixation on remaining insular, it tends to encroach on the outside world. With on-island parking limited to construction supervisors, crews working on Indian Creek mansions sometimes park along a quiet Surfside street near the bridge. Properties in the neighborhood are also being bought up by opaquely named LLCs tied to Indian Creek residents. Julio Iglesias, a longtime Indian Creek homeowner, is particularly invested in Surfside, controlling through several LLCs at least nine properties within a few blocks of the entrance.",
+        "question": "Who controls at least nine properties within a few blocks of the entrance to Surfside?\n",
+        "answer": "Julio Iglesias.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that Julio Iglesias controls at least nine properties within a few blocks of the entrance to Surfside.\n\n"
+    },
+    {
+        "context": "What does the future hold for wolves in the US and beyond? The species has been delisted as endangered in parts of the west \u2013 Montana, Idaho and Wyoming \u2013 and state-managed hunting outside of national parks is now allowed there. Meanwhile, the EU is undertaking a review of wolves conservation status after growing complaints from farmers whose livestock has become prey.Those US states are required to maintain a population of 150 animals, but no more. And the new hunting laws they have adopted in the past few years are horribly archaic and torturous \u2013 allowing for wolves to be taken by virtually any method. In Europe, wolves have been well tolerated, but that has its limits. Wolves are resilient but ultimately their fate is up to us: they exist in the landscape at our whim. I hope we continue to protect them in enough areas that they will always be here.\nA Woman Among Wolves by Diane K Boyd is published by Greystone (\u00a318.99). To support the Guardian and Observer order your copy at guardianbookshop.com. Delivery charges may apply",
+        "question": "What is the minimum population required for wolves in US states that have delisted them as endangered?\n",
+        "answer": "150 animals.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context as it directly refers to the minimum population required for wolves in US states that have delisted them as endangered, which is explicitly stated as 150 animals. The context provides a clear and concise answer to the question without any ambiguity.\n"
+    },
+    {
+        "context": "An MP still inside the parliamentary fold agrees. 'Reform thrives in chaos,' they said.",
+        "question": "What does the phrase \"Reform thrives in chaos\" mean?\n",
+        "answer": "The phrase \"Reform thrives in chaos\" means that change or reform is more likely to happen or be successful when there is a lot of upheaval or disorder.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The phrase \"Reform thrives in chaos\" is likely to mean that change or reform is more likely to happen or be successful in situations where there is disorder, upheaval, or instability. This interpretation is supported by the context, which suggests that the MP is agreeing with a statement that implies reform can be effective in challenging circumstances. The phrase is not a straightforward or literal statement, but rather a metaphorical expression that conveys a positive message about the potential for reform in difficult times. The MP's agreement with the statement suggests that they believe this interpretation is accurate. \n\n",
+        "relevance_score": 4,
+        "relevance_eval": "This phrase is likely to be used in a context where there is a need for change or reform, and the current situation is chaotic or unstable. The phrase suggests that in such a situation, reform or change is more likely to be successful or thrive. This could be useful for people making strategic decisions about market entry into Germany, as it may indicate that the current market conditions are ripe for change, and that a company that is able to adapt and reform quickly may be well-positioned to succeed. For example, a company considering entering the German market may want to look for opportunities to reform or adapt their business model in response to changing market conditions, and this phrase may suggest that such opportunities are available. Overall, the phrase is a useful reminder that change and reform can be opportunities for success, rather than threats to stability. \n\n"
+    },
+    {
+        "context": "Multi-brand Volkswagen is feeling the pressure and has been forced to consider closing factories for the first time in its 87-year history. VW needs to radically increase its sales of EVs next year or face big fines for offending the European Union's carbon dioxide emissions rules.\nGlobalData has been relentlessly cutting its sales forecast for Western Europe. Four months ago it was forecasting just under 5% growth. Its latest forecast says there will be a slight contraction with sales falling 0.4% compared with last year, as the total for 2024 peaks out at 11.51 million.\nAccording to Professor Ferdinand Dudenhoeffer, director of the Center for Automotive Research (CAR), German automakers have been asleep at the switch and fallen behind in the development of EVs, their batteries and software. Governments have made the problem worse.",
+        "question": "What is the forecasted total sales for 2024 in Western Europe?\n",
+        "answer": "11.51 million.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context as it directly refers to the forecasted total sales figure provided by GlobalData. The context provides enough information to determine the exact figure, making it clear and unambiguous.\n\n\n"
+    },
+    {
+        "context": "BREMEN, Germany, Sept 21 (Reuters) - After thrashing Werder Bremen 5-0 in a Bundesliga clash on Saturday to continue their perfect season, Bayern Munich plan to celebrate with a trip to the Oktoberfest, head coach Vincent Kompany said.\nBayern ran out comfortable winners to move up to 12 points from four matches and, with a week to go before their next match against champions Bayer Leverkusen, the league leaders have some time to unwind.\nAsked if his team would visit Munich's famed beer festival, as they often do, Kompany told reporters: \"We've got to respect every game, and it was important today that we won this game.\n\"The players are, of course, allowed to be happy and satisfied and then tomorrow is tradition. We have to respect tradition as well.\n\"We're going to go to Oktoberfest and we've got to have a bit of fun as well and then as of Monday, it'll all be about Leverkusen, the preparation for this game.\"",
+        "question": "Will Bayern Munich visit Oktoberfest?\n",
+        "answer": "Yes, Bayern Munich plan to celebrate with a trip to Oktoberfest.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the head coach Vincent Kompany explicitly states that Bayern Munich will visit Oktoberfest.\n",
+        "relevance_score": 5,
+        "relevance_eval": " Bayern Munich is a football club and Oktoberfest is a beer festival, so it is highly unlikely that the football club will visit the beer festival. This question is extremely useful for people who want to know whether Bayern Munich will be participating in Oktoberfest, and for people who want to avoid Bayern Munich's presence at Oktoberfest. \n"
+    },
+    {
+        "context": "AMMWEC executive Soraya Deen, also CEO of Muslim Women Speakers welcomed the young people. She emphasized the importance of American and German youth working together to curb the rising tide of antisemitism and extremism. 'In a world rocked by hate, it takes. it takes commitment and tenacity to explore the reasons for such hate,' she added, \" Frederick Douglass once said-\" It is easier to build strong children than to repair broken men.'\nYouth Bridge held that promise to the world.\nAMMWEC continues to work towards its mission of empowering women and promoting interfaith understanding through various initiatives and events. The visit from the young students from Germany is just one example of the organization's efforts to foster a culture of diversity and collaboration among youth.\nStaff Writer\nAmmwec\n+ +1 202-600-5186\nemail us here\nVisit us on social media:\nX\nLinkedIn\nInstagram\nYouTube\nLegal Disclaimer:",
+        "question": "Who said \"It is easier to build strong children than to repair broken men\"?\n",
+        "answer": "Frederick Douglass.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The quote is clearly and unambiguously attributed to Frederick Douglass, a well-known American abolitionist and orator, in the given context. The context provides a clear and direct attribution of the quote, making it easy to understand the origin of the quote. The context also provides additional information about the event and the organization, but the quote itself is the main focus of the question, and the attribution is clear and unambiguous. \n",
+        "relevance_score": 5,
+        "relevance_eval": "This quote is well-known and attributed to John F. Kennedy, the 35th President of the United States. It is a famous phrase that emphasizes the importance of investing in the well-being and development of children. The quote is often used to encourage parents, educators, and policymakers to prioritize the needs of young people. The quote is also relevant to the context of market entry into Germany, as it highlights the importance of investing in the future of a country's workforce and economy. Therefore, the question is extremely useful for anyone considering market entry into Germany.\n"
+    },
+    {
+        "context": "Moses and I spoke at length about his journey.\nWhy did you want to participate in this documentary?\nIn 2005, I was at the Laureus World Sports Awards. And Morgan was our special host and he introduced me and he said: 'Edwin Moses, nine years, nine months, nine days, 122 races, Morehouse man, undefeated world champion, Olympic champion.' And he said: 'Why is there no film on Edwin Moses?'\nAnd so, it became kind of something that I really wanted to do. And my friends quite frankly were demanding it.\nAnd then later in 2020, right before the COVID epidemic started, I was approached by a film team out of Germany, Broadview TV. And we started discussing the possibility of doing a film. They're an international boutique documentary firm and they understood the story because they're Germans. A lot of my history of running track and the IOC and all those activities happened in Europe.\nSo that's how the concept got started.\nWhen the winning streak of 122 straight races ended in Madrid in 1987, how did that moment feel?",
+        "question": "What happened to Edwin Moses' winning streak of 122 straight races?\n",
+        "answer": "It ended in Madrid in 1987.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The context provides specific details about the end of Moses' winning streak, including the location and year it occurred. The speaker also mentions that the film team discussed the story and understood the significance of Moses' achievements. This suggests that the context is sufficient to answer the question about the end of Moses' winning streak.\n\n"
+    },
+    {
+        "context": "As we near the northwestern side of the island, I spot the bright red steel beams of \"La Petite Clef,\" the Mark di Suvero sculpture that towers 20 feet over the front lawn of the car magnate Norman Braman's mansion. We glide past a modern palace hidden behind a dense cluster of palm trees, purchased for $50 million in 2019 by a mysterious LLC linked to the emir of Qatar. On the southwestern shore, we come upon the island's most sought-after mansions. This is where the elite of the elite live: Tom Brady, Carl Icahn, and the neighborhood's most recent arrival, Jeff Bezos. The wealth here is staggering \u2014 25,000-square-foot mansions with ivy-strewn stucco walls, fronted by sprawling lawns and sleek yachts. Today, almost all the mansions appear to be empty.\nAs we get closer to the shore, I start to notice the cameras.",
+        "question": "What is the name of the Mark di Suvero sculpture located on the front lawn of Norman Braman's mansion?\n",
+        "answer": "La Petite Clef.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly mentions the Mark di Suvero sculpture and its location on the front lawn of Norman Braman's mansion.\n",
+        "relevance_score": 1,
+        "relevance_eval": "I could not find any information about a Mark di Suvero sculpture on the front lawn of Norman Braman's mansion. This question appears to be too specific and may not be relevant to people making strategic decisions about market entry into Germany. \n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific location and a person, which implies that the question is not self-contained and requires additional information to be understood. \n"
+    },
+    {
+        "context": "This story brings together a tipster, a villain, a visionary, and Warrren Buffett, arguably the greatest investor of all time. And it's mixed with salad oil.\nTino DeAngelis had an early business start in the meat industry. He was allegedly involved in black market sales during World War II. He paid $100,000 in damages for exporting substandard cooking fat to Yugoslavia. After acquiring control of a public meatpacker, he was required to pay new damages of $100,000 because of inferior products. Then another one of his companies was accused of exporting inferior lard to Germany, resulting in 'the usual' $100,000 in damages. DeAngelis later created Allied Crude Vegetable Oil Refining Corporation (Allied). Allegations of fraud and underworld connections followed him.",
+        "question": "Who was accused of exporting inferior lard to Germany?\n",
+        "answer": "Allied Crude Vegetable Oil Refining Corporation (Allied) was accused of exporting inferior lard to Germany.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the context, as the context provides specific details about Tino DeAngelis and his business dealings, including a specific accusation of exporting inferior lard to Germany.\n"
+    },
+    {
+        "context": "7. Emily the rat and friends\nAn uptick in animal rights awareness in the early 1990s saw activism seep into pet cemeteries, replacing the avant-garde art created by Vallance with hard-hitting, unambiguous inscriptions. At the six-acre (24,281 sq m) Aspin Hill Memorial Park, a pet cemetery in Maryland, US, a memorial, topped with a chubby rodent nursing its tail, is dedicated to \"the millions of rats used in medical experimentation and product testing\". Elsewhere in the cemetery, a grave full of sable coats labelled \"products of human ignorance and vanity\" needles again at our conscience.\n8. Makeshift cemeteries",
+        "question": "What is the name of the pet cemetery in Maryland, US, where a memorial is dedicated to \"the millions of rats used in medical experimentation and product testing\"?\n",
+        "answer": "Aspin Hill Memorial Park.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context directly mentions the name of the pet cemetery in Maryland, US, and the memorial dedicated to rats.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for anyone considering market entry into Germany, as it provides information on a unique aspect of American culture and history. Understanding the values and sensitivities of the US market can help businesses avoid unintended offense or cultural faux pas when entering the German market. Additionally, the question highlights the importance of considering the ethical implications of business practices, which is a key consideration for strategic decision-makers. Overall, the question provides valuable context for businesses looking to enter the German market, and its answer can inform their approach to cultural sensitivity and social responsibility. "
+    },
+    {
+        "context": "The French winger then wriggled his way into Bremen's penalty area in the 32nd minute and his cutback was turned home by Musiala.\nBayern continued their onslaught after the break and Olise teed up Kane for a shot from the edge of the box, which led to the striker's 41st Bundesliga goal - making him the highest-scoring English player in the German top flight's history.\nOlise netted his fifth goal in three matches with a delightful sidefooted finish into the top corner and substitute Serge Gnabry wrapped up the scoring in the 65th minute.\nBayern were without veteran goalkeeper Manuel Neuer, who was named in the starting lineup before pulling out after the warm-up due to a thigh injury, but the change made little difference.\nDeputy Sven Ulreich was untroubled throughout the match and faced no shots on target from a toothless Bremen attack.\nBayern stepped off the gas in the last 15 minutes of the match, likely saving energy for a testing clash against champions Bayer Leverkusen on Sept. 28.",
+        "question": "Who was Bayern's starting goalkeeper before he pulled out due to injury?\n",
+        "answer": "Manuel Neuer."
+    },
+    {
+        "context": "In another show of strength, von der Leyen arm-twisted governments to send her female commissioner candidates, rewarding countries that complied (including Romania and Slovenia) with big jobs or impressive-sounding titles.\nGovernments that snubbed her request to suggest women (Austria, Ireland) found themselves without the 'big economic portfolio' they had sought, albeit gaining weighty jobs.\nIn 2019, von der Leyen was a surprise last-minute choice to lead the commission. She took office weeks before the Covid pandemic tipped Europe into unprecedented crisis. During lockdown, working with a small team in the commission's HQ, where she also lives \u2013 von der Leyen has a windowless converted washroom on the 13th floor \u2013 reinforced her penchant for taking decisions alone.",
+        "question": "Who was the surprise last-minute choice to lead the commission in 2019?\n",
+        "answer": "Ursula von der Leyen.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context directly states that von der Leyen was a surprise last-minute choice to lead the commission in 2019.\n"
+    },
+    {
+        "context": "The positive reception at the event is a testament to REJO's growing influence in the global HNB market. The brand's ability to attract such a diverse and engaged audience highlights its strong market positioning and the appeal of its product range. The successful debut of the REJO AF1 and REJO Mate Air further cements the brand's reputation as a leader in the industry.\nVisitors Flock to the REJO Booth\nLooking Ahead\nWith a successful showcase at InterTabac 2024 and the impending launch of new products in key international markets, REJO is poised for continued growth and success. The brand's focus on innovation, quality, and consumer satisfaction will undoubtedly drive its expansion efforts, ensuring that it remains at the forefront of the HNB industry.",
+        "question": "What is the name of the brand that had a successful debut at InterTabac 2024?\n",
+        "answer": "REJO.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question can be answered unambiguously with the given context as it directly mentions the brand that had a successful debut at InterTabac 2024, which is explicitly stated as REJO.\n"
+    },
+    {
+        "context": "In 2011, the town installed new cameras by the entrance gate that allow police to simultaneously view a visitor's face, pull up their driver's license, and read their license plate. Indian Creek also narrowed the gate's opening to create what it called \"a greater sense of exclusivity.\" In 2012 the town replaced the tinted bullet-resistant glass in the access command center, and in 2013 it added a fence to keep pedestrians out. Such investments are generally lauded by residents, who often push the town council for more stringent security measures. \"Safety is our No. 1,\" Irma Braman, Norman's wife, said at one meeting. \"It should be everyone's No. 1.\"",
+        "question": "What year did the town install cameras by the entrance gate?\n",
+        "answer": "2011.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that the town installed cameras by the entrance gate in 2011. The information is directly mentioned in the text, making it clear and unambiguous.\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is not very useful to people making strategic decisions about market entry into Germany, as it is too specific and focused on a single town, rather than providing general information about the country as a whole. It does not address any key factors that businesses should consider when deciding whether to enter the German market.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks information about the town, the year, and the cameras. It is unclear what town the question is referring to, and what year the cameras were installed. The question seems to be asking for a specific year, but it lacks the necessary context to determine the correct answer.  "
+    },
+    {
+        "context": "Scholz, meanwhile, called earlier this month on other parties to block the \"right-wing extremist\" AfD from office by maintaining a so-called firewall against it.The chancellor, an SPD member and former leader, described the results in Thuringia and Saxony as \"bitter\" and \"worrying\".Hans-Christoph Berndt, the AfD candidate for Brandenburg state premier, cast his ballot in the town of Golssen, south of Berlin on Sunday and said the party had seen growing support since the last state election in 2019.Bolstered by youth support, the AfD has been narrowly leading the SPD in the polls - but more than a quarter of voters are estimated to be undecided.",
+        "question": "What percentage of voters are estimated to be undecided?\n",
+        "answer": "more than a quarter of voters.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that more than a quarter of voters are estimated to be undecided.\n\n",
+        "relevance_score": 1,
+        "relevance_eval": "The question is not relevant to the topic of the provided text and does not provide any useful information for strategic decision-making about market entry into Germany.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question is self-contained and does not require any additional context to be understood. It is a factual question that can be answered based on general knowledge. The term 'undecided' is a common concept in voting and elections, and the percentage of voters who are undecided is a widely reported statistic. Therefore, the question does not rely on any specific context or information to be understood. \n"
+    },
+    {
+        "context": "The REJO AF1 is a state-of-art heating device specifically designed for granular sticks, providing an ideal pairing with its own branded tobacco granular sticks OICES and herbal granular sticks TOZE. Leveraging advanced hot airflow heating technology, REJO AF1 ensures that each tobacco granule is evenly and thoroughly heated. This method preserves the natural tobacco aroma while reducing the production of harmful chemicals, delivering a richer and more satisfying smoking experience.\nThree main colors of the new REJO AF1 Heating Device\nThe REJO Mate Air is another innovative addition to REJO's product lineup, ideal for users who prioritize portability without compromising performance. This compact and lightweight device is equipped with advanced round heating technology to produce dense clouds and full-bodied flavor. Its sleek design and user-friendly features make it an excellent choice for both new and experienced HNB users.\nFull series of the new REJO Mate Air Heating Device\nIncreasing Global Reach",
+        "question": "What is the name of the heating technology used in the REJO AF1 device?\n",
+        "answer": "Hot airflow heating technology.",
+        "groundedness_score": 1,
+        "groundedness_eval": "The context does not provide enough information to answer the question unambiguously.\n"
+    },
+    {
+        "context": "Matthias Schrader/AP\nYoung visitors await the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nBavarian musicians prepare in the Augustiner marquee for the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday morning, Sept. 21, 2024.\nMatthias Schrader/AP\nA waitress prepares tables in a marquee for the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, early Saturday morning, Sept. 21, 2024.\nMatthias Schrader/AP\nBeer mugs are prepared in a marquee for the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nVisitors secured their place in a beer tent, awaiting the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nA visitor in traditional Bavarian clothes and a moustache is seen at the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP",
+        "question": "When is the 189th 'Oktoberfest' beer festival taking place?\n",
+        "answer": "The 189th 'Oktoberfest' beer festival is taking place on Saturday, Sept. 21, 2024.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that the 189th 'Oktoberfest' beer festival is taking place on September 21, 2024.\n"
+    },
+    {
+        "context": "A new photography book explores the practice of memorialising beloved beasts, from a performing elephant in Las Vegas to service animals and the world's most loyal sheepdog.\nThe first time Paul Koudounaris visited Pet Haven Cemetery and Crematory in Gardena, California, the US author, photographer and expert in macabre art history was surprised to find his eyes wet with tears. \"After writing three books about death, and not being affected by anything, five hours with those little graves had finally broken me,\" he tells the BBC. \"The sentiment there had become overwhelming.\"\nFaithful Unto Death \u2013 Pet cemeteries, animal graves and eternal devotion, published by Thames & Hudson this month, is the culmination of Koudounaris's 11-year exploration of the cultural practice of memorialising animals, from hand-painted pet portraits lit by lanterns in a forested Helsinki graveyard to extravagant mausolea in New York and Boston made of granite and bronze.",
+        "question": "What is the title of Paul Koudounaris's new photography book about memorialising animals?\n",
+        "answer": "Faithful Unto Death \u2013 Pet cemeteries, animal graves and eternal devotion.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context provides all the necessary information to identify the title of the book.\n\n"
+    },
+    {
+        "context": "Few expect EU leaders to agree on Draghi's ambitious agenda. In France, Macron is weakened after snap elections created a prolonged political stalemate. Germany's chancellor, Olaf Scholz, presides over a squabbling three-way coalition that is preoccupied with domestic politics after unprecedented victories for the far right in regional elections, with another defeat on the horizon on Sunday in Brandenburg.\nOne senior EU official cautioned against the idea that von der Leyen could step into a leadership vacuum. 'You are only as strong as the weakest link in the [European] council.'\nTo get legislation passed, von der Leyen needs not only EU member states, but also the European parliament, which has more far-right MEPs hostile to the EU than ever before. 'On legislation, she will have a lot of trouble,' said the senior official. 'You are no longer talking about 30 nutcases. You are now talking about 150 people who are not well intentioned.'",
+        "question": "How many far-right MEPs are there in the European parliament?\n",
+        "answer": "150.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context mentions that there are more far-right MEPs hostile to the EU than ever before, and it provides a specific number (150) that is likely to be accurate. The context also implies that the number is significant enough to pose a challenge to von der Leyen's leadership. The question is unambiguous because it asks for a specific number, and the context provides enough information to make an educated guess.\n\n\n",
+        "relevance_score": 3,
+        "relevance_eval": "This question is useful for people who want to understand the current political landscape of the European parliament, particularly those who are interested in far-right parties. Knowing the number of far-right MEPs can help them assess the influence and representation of these parties in the parliament. This information can be useful for strategic decision-making, such as understanding potential alliances or rivalries with other parties. However, it may not be directly relevant to businesses or companies looking to enter the German market, unless they have a specific interest in far-right politics. Overall, the question is moderately useful for people making strategic decisions about market entry into Germany.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question is self-contained and does not require any additional information to be understood. The term 'far-right' and 'MEPs' are widely known, and the question can be answered based on general knowledge.  "
+    },
+    {
+        "context": "Whatever crimes the island's residents may be committing, they aren't doing it on the island. Many years, not a single offense is reported to the Indian Creek police. Instead, the cops have their hands full fending off the curious boaters who try to land on the beach near the golf course. \"The police are being run ragged right now,\" Mayor Bernard Klepach \u2014 who is also the CEO of the world's largest in-flight duty-free company \u2014 said at a council meeting in 2020, referring not to a crime wave but to recent incursions by beachgoers. \"We need something quickly.\"",
+        "question": "What is the largest in-flight duty-free company in the world?\n",
+        "answer": "The world's largest in-flight duty-free company is owned by Mayor Bernard Klepach.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that Bernard Klepach is the CEO of the world's largest in-flight duty-free company. The answer is clear and unambiguous.\n\n"
+    },
+    {
+        "context": "Both of Scholz's junior coalition partners, the Free Democrats and the Greens, look set to struggle to win the 5% needed to enter the state parliament, polls show.\nAt a national level, the three parties in Scholz's coalition are now collectively polling less than the opposition conservatives although political analysts say much could change before the federal election due in September 2025.",
+        "question": "What percentage of the state parliament is needed to enter the state parliament?\n",
+        "answer": "5%",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context, as the context explicitly states that the parties need to win 5% to enter the state parliament.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people making strategic decisions about market entry into Germany, as it provides a clear and concise answer to a specific and relevant question about the German political system. It allows market entry decision-makers to quickly assess the feasibility of entering the state parliament and to make informed decisions about their entry strategy. The question is well-defined and easy to understand, and the answer is readily available and easily verifiable. Overall, this question is extremely useful for anyone considering market entry into Germany. \n\n"
+    },
+    {
+        "context": "Since he arrived there, he's delivered a lot of words about the direness of the inheritance from the Tories and accompanied this with the warning that things are going to get worse before they get better. Can the Labour conference, which opens on Sunday in Liverpool, expect a further deluge of miserabilism or will he have some more optimistic things to say to his party and to the public? 'I want to answer the 'why' question as well as the 'what' question. In the first 11 weeks, we have answered the 'what' question \u2013 what did we inherit? This \u00a322bn black hole is a real problem \u2026 We're going to have to deal with it upfront.'\nIf Labour is ultimately to deliver improved economic growth and everything else it has promised, it has 'to do the tough things first' so 'in years to come, people will look back and say: 'That Labour government in 2024 really got to grips with it.''",
+        "question": "What is the estimated value of the black hole inherited by the Labour government?\n",
+        "answer": "\u00a322bn.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that the Labour government inherited a 'black hole' of \u00a322bn. The answer is clearly and unambiguously provided in the context.\n\n\n",
+        "relevance_score": 1,
+        "relevance_eval": "This question is not useful for people making strategic decisions about market entry into Germany, as it is not related to Germany or market entry decisions. It appears to be a question about a specific economic or financial topic, and does not provide any relevant information for businesses considering market entry into Germany.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific event or situation, namely the inheritance of a black hole by the Labour government, which is not explicitly defined in the question itself. Therefore, the question is not self-explanatory and depends on additional information to be understood.  "
+    },
+    {
+        "context": "As my boat cruises toward the private island city of Indian Creek Village \u2014 better known as the Billionaire Bunker \u2014 I'm hoping my trip doesn't end in an arrest.\nIt's a hot morning on South Florida's Biscayne Bay, and I've convinced two local tour boat captains to pilot me around the perimeter of what is quite possibly the wealthiest and most heavily defended town in America. I'm not entirely clear on the rules about boating near the island, which lies just across the bay from Miami, and neither are my captains \u2014 they're both in their first weeks on the job. What I do know is that Indian Creek employs a new all-seeing security system and a small navy of police officers who frequently stop and ticket boats that venture too close to the island's manicured shore.",
+        "question": "What is the Billionaire Bunker?\n",
+        "answer": "Indian Creek Village.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The context provides sufficient information to answer the question clearly and unambiguously.\n"
+    },
+    {
+        "context": "The far right could be on the brink of its first election victory in a state known as the bastion of Germany's social democrats.Brandenburg, close to Berlin, has been governed by Chancellor Olaf Scholz's centre-left Social Democratic Party (SPD) ever since German reunification.But two million voters are heading to the polls on Sunday for a tightly fought regional election that Alternativ f\u00fcr Deutschland (AfD) stands a chance of winning.It would add to the AfD's recent election successes - and prove a major embarrassment for Scholz, who lives in the state's capital, Potsdam.",
+        "question": "Will the AfD win the regional election in Brandenburg?\n",
+        "answer": "Yes, the AfD stands a chance of winning the regional election in Brandenburg.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable because the context explicitly states that the AfD \"stands a chance of winning\" the regional election in Brandenburg, which implies that the AfD is likely to win. This information is specific and unambiguous, making it easy to determine the answer to the question.\n"
+    },
+    {
+        "context": "By June, this feature was available in Europe and the U.K., broadening the accessibility of PayPal's crypto services and boosting user trust. Ivan Soto-Wright, CEO of MoonPay, highlighted the simplicity and reliability of this service. PayPal now trails only Apple Pay and bank transfers in popularity in the U.S., signaling a shift toward broader acceptance of digital currencies.\nBitcoin's Value Drops After Federal Reserve's Warning\nBitcoin's value increased last week when Jerome Powell, head of the Federal Reserve, suggested interest rates might be cut in September. This news pushed Bitcoin's price to $65,000, seen as a prime opportunity for gains. However, following this surge, Bitcoin's price dropped to about $60,000, coinciding with another cryptocurrency's significant crash.\nWith the Federal Reserve's new warning about potential economic measures, experts anticipate substantial shifts for Bitcoin and other cryptocurrencies. Another warning from the Fed indicates a possible major turn in the crypto market.",
+        "question": "When was the feature available in Europe and the U.K.?\n",
+        "answer": "By June.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context explicitly states that the feature was available in Europe and the U.K. by June. The context provides a clear and specific timeframe, making it easy to determine the answer to the question.\n\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is somewhat useful for people who are looking for information about the history of a particular feature, but it is not very useful for people who are making strategic decisions about market entry into Germany, as it does not provide any information about the current state of the feature or its potential impact on their business.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks information about the feature in question, and it is unclear what feature is being referred to. The question also lacks context about when the feature was available. \n"
+    },
+    {
+        "context": "What was the root cause of the scandal? Incentives and motives matter. To survive, AEFW needed to show consistent profits. This may have caused Donald Miller to overlook DeAngelis's character flaws, since his dealings with Allied were profitable. As author Norman Miller concluded, 'Tino succeeded because bankers, brokers and business[people], despite the glaring indications that they were dealing with a crook, could not resist the bait of big profits\u2026The reason they were convinced that Tino's deals were good can be stated in one word\u2014greed.'\nThose bankers, brokers, and businesspeople were all greedy until they feared they would lose it all. Buffett turned that premise on its head when he famously proclaimed his investing goal: 'We simply attempt to be fearful when others are greedy and to be greedy only when others are fearful.' Stocks may become overvalued when everyone wants to invest in them, and undervalued when no one wants them.",
+        "question": "What motivated the bankers, brokers, and businesspeople to overlook DeAngelis's character flaws?\n",
+        "answer": "Greed.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context provides a clear explanation of the root cause of the scandal and the motivations of the bankers, brokers, and businesspeople.\n\n",
+        "relevance_score": 3,
+        "relevance_eval": "The question is somewhat useful as it provides some insight into the motivations of the bankers, brokers, and businesspeople, but it is limited in its scope and does not provide a comprehensive understanding of the situation.\n",
+        "standalone_score": 4,
+        "standalone_eval": "The question is self-contained and does not require any additional context to be understood. The question is asking about the motivations of certain individuals, which can be inferred from the information provided in the passage. The passage likely provides information about DeAngelis's character flaws and the reactions of the bankers, brokers, and businesspeople, allowing the reader to infer their motivations. The question does not require any external knowledge or assumptions, making it context-independent. \n\n"
+    },
+    {
+        "context": "\"Every time I go past Indian Creek, I run into a marine patrol guy,\" Ross says. He knows of plenty of boaters who have been ticketed, generally for creating a wake too close to the shore. Passing by the island earlier this year, Ross triggered the attention of an Indian Creek Police patrol. The officer hit him with a $140 ticket for not having the correct safety equipment on board. The Indian Creek police department did not respond to my inquiries.\nResidents, for their part, have been enthusiastic about the new system, and several granted easements to allow the tech to be mounted on their property. One key selling point for the ultra wealthy townies: The cameras would never be pointed inward. Only outsiders would be targeted by the high-tech system. \"I think the security is great and have been happy with what has been implemented,\" Gail Golden, the wife of Carl Icahn, tells me. \"Nothing further to add.\"",
+        "question": "What is the cost of the ticket given to Ross?\n",
+        "answer": "$140.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context, as the context explicitly states that Ross was given a $140 ticket for not having the correct safety equipment on board.\n\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful because it provides a specific and concrete piece of information that can be used to make a decision about the cost of a ticket. It is likely that someone making a strategic decision about market entry into Germany would want to know the cost of a ticket in order to compare it to other costs and make an informed decision. The question is clear and concise, and it provides a specific piece of information that can be used to make a decision. \n\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the ticket and its cost. It is unclear what ticket Ross is given. \n"
+    },
+    {
+        "context": "A new analysis of the painting by physicists based in China and France suggests the artist had a deep, intuitive understanding of the mathematical structure of turbulent flow, a common natural phenomenon observed in fluids such as moving water, ocean currents and billowing storm clouds.\nThe scientists determined that the sizes of the 14 whorls or eddies in 'The Starry Night,' and their relative distance and intensity, follow a physical law that governs fluid dynamics known as Kolmogorov's theory of turbulence.\nThe physics hidden in Van Gogh's depiction of the night sky may be one reason why people are so drawn to the painting.\nCuriosities\n\u2014 A still-shiny bronze sword engraved with the name of King Ramses II in hieroglyphics has been unearthed in Egypt.\n\u2014 Helga and Zohar, two mannequins that flew aboard the Orion space capsule during the uncrewed Artemis I mission in 2022, are revealing how much radiation astronauts may experience on future Artemis missions.",
+        "question": "What is the name of the physical law that governs fluid dynamics known as the scientists determined governs the sizes of the 14 whorls or eddies in 'The Starry Night'?\n",
+        "answer": "Kolmogorov's theory of turbulence."
+    },
+    {
+        "context": "With that, he launches into a 'rattle through what we've done', which includes setting up the national wealth fund and GB Energy, putting a new planning framework in place to encourage swifter construction of essential national infrastructure and more homebuilding, as well as starting recruitment of additional police officers and teachers.\nSign up to Observed\nAnalysis and opinion on the week's news and culture brought to you by the best Observer writers\nafter newsletter promotion\n'If you look at the list of what we have already done in 11 weeks, then I would argue strongly that we've done far more than the last government did probably in the last 11 years.'\nHe continues: 'Leaking, I know how damaging it is. In the end, it only damages the government, so I'm not going to pretend otherwise. But I would also point out there's a lot of work that's gone on, being delivered through No 10 and the cabinet.'",
+        "question": "What is the name of the new planning framework?\n",
+        "answer": "The new planning framework is not explicitly named in the text, but it is referred to as a framework to encourage the construction of essential national infrastructure and more homebuilding.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context mentions the 'new planning framework' and the 'National Infrastructure Plan' is explicitly mentioned in the text as part of the new framework. The answer is clear and unambiguous.\n",
+        "relevance_score": 2,
+        "relevance_eval": "The question is not very specific and does not provide enough information to give a precise answer. It is likely referring to a general planning framework, but the name is not specified. This makes it difficult to provide a useful answer.\n",
+        "standalone_score": 4,
+        "standalone_eval": "The question is self-contained and does not require any additional context to be understood. It is a general question about a planning framework, and the answer can be inferred from general knowledge. The question does not refer to a specific setting or document, and it does not contain any ambiguous terms. Therefore, the question is context-independent. \n\n"
+    },
+    {
+        "context": "Although one of Germany's smallest states, population-wise, the outcome of the vote is being seen as significant for the whole country, and the results are being awaited with suspense across the continent.\nOn 1 September, the AfD became the strongest party in a state election for the first time in the eastern state of Thuringia, where it secured about 33% of the vote. In neighbouring Saxony, it emerged in second place, at about 30%, narrowly beaten by the governing centre-right Christian Democratic Union (CDU).\nThe campaign has focused on issues of immigration, energy transition, fears of economic recession and Germany's support for Ukraine, all of which are hot button issues in the former communist-run eastern Germany in particular, with the AfD proving itself to be especially adept at tuning into voters' concerns.\nEven if the AfD wins, it is unlikely to be able to rule the state, because it will lack a majority. The other parties have put up a so-called 'firewall' and have refused to work with it.",
+        "question": "What percentage of the vote did the AfD secure in the state election in Thuringia?\n",
+        "answer": "About 33% of the vote.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that the AfD secured about 33% of the vote in the state election in Thuringia. The question is unambiguous and the information provided in the context is sufficient to answer it.\n\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is somewhat useful for people making strategic decisions about market entry into Germany, as it provides information about the political landscape in a specific state. However, it is limited in its scope and does not provide a comprehensive understanding of the political climate in Germany. Additionally, the AfD's performance in Thuringia may not be representative of the national trend. Therefore, the question is not extremely useful, but it can still be a useful starting point for further research.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific event (state election in Thuringia) that is not explicitly mentioned in the provided text. Therefore, the question is not context-independent. \n"
+    },
+    {
+        "context": "Really, when you think about it, 568ml is an obscene amount of liquid to consume in one sitting \u2013 and 1,136ml even more so. It probably wouldn't occur to you to drink more than half a litre of coffee, or milkshake, or kombucha at a time. So why is it the norm, in Britain, with beer \u2013 and despite the known harms?\nI know that I've looked askance at teenagers chugging from those bucket-sized cans of energy drinks and wondered what all that guarana must be doing to their systems. But with alcohol, we know only too well that it's nothing good. Even drinking in moderation isn't as harmless as we've been led to believe, with many of those findings reached by flawed methodology, and sometimes with funding from the alcohol industry.",
+        "question": "What is the typical amount of liquid consumed in one sitting in Britain?\n",
+        "answer": "568ml (or 1,136ml for beer)",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context provides information about the typical amount of liquid consumed in Britain, specifically beer. The answer is clearly stated in the text as 568ml.\n\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people making strategic decisions about market entry into Germany, as it provides a wealth of information about British consumer behavior and could inform decisions about product placement, marketing strategies, product formulation, and packaging. It is likely to be directly applicable to the German market, and could provide a competitive advantage for companies making market entry decisions. ",
+        "standalone_score": 5,
+        "standalone_eval": "The question is self-contained and does not require any additional context to be understood. The term 'one sitting' is a common idiomatic expression that is widely understood. The question is asking for a general fact about British culture, which can be determined without referencing any specific document or context.  "
+    },
+    {
+        "context": "George Barros, the author of that ISW research, agrees a less public debate may have been preferable, but if the very prospect of these permissions being granted has forced Russia to move aircraft further from the border, it's a good thing. It could reduce the number of bombing missions Russian planes can make (known in the military as the 'sortie rate') and buy Ukraine valuable detection and reaction time for incoming attacks.\nMore importantly, he believes that if Ukraine could strike Russian troops, weaponry and logistics within the 300-kilometer range of the top-end ATACMS, it would for the first time force Russia to calculate the risks of moving large amounts of troops and equipment into Ukraine.\n'You've only just now \u2026 started talking about a potential risk to Russia's rear area and depriving them of this insane luxury that the Russian command has leveraged. To really bring mass (equipment), to get 10 to one artillery ratios on Ukraine at the frontline,' he told CNN.",
+        "question": "What is the minimum distance from the Ukrainian border that Russian troops and equipment can be moved into Ukraine?\n",
+        "answer": "300 kilometers.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as it is based on a specific statement made by George Barros, which provides a clear and unambiguous answer to the question. The context provides enough information to understand the significance of the 300-kilometer range and how it would impact Russia's military strategy.\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for market entry strategists as it provides a clear and specific piece of information about the military capabilities of Russia in Ukraine. Knowing the minimum distance from the border that Russian troops and equipment can be moved into Ukraine can help market entry strategists assess the level of risk and potential for conflict in the region, which is critical for making informed decisions about market entry. This information can also be used to identify potential vulnerabilities in the market and to develop strategies to mitigate those risks. Overall, this question provides a high level of specificity and relevance to market entry strategists, making it extremely useful.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific geopolitical context, namely the conflict between Russia and Ukraine, and it is unclear what specific information is being asked about without additional context. Therefore, the question is highly dependent on additional information to be understood. \n\n"
+    },
+    {
+        "context": "As we get closer to the shore, I start to notice the cameras.\nTheir beady eyes are everywhere. Some are mounted on poles along the seawall. Others peek out from hedges. Many are connected to an inconspicuous white box \u2014 an Israeli-designed radar system capable of detecting passersby, in low visibility, from half a mile away.\nThere is no way for a person to set foot on Indian Creek without the express permission of one of its 89 residents or a member of its ultra exclusive country club, which reportedly costs $500,000 to join. Because the town's government serves such an ultra wealthy subset of the population, things like public parks and social programs are practically nonexistent. Instead, the lion's share of Indian Creek's budget goes to its police department \u2014 which keeps watch on the island's sole entrance and patrols the perimeter 24/7. Through federal funds, the town has also amassed a panoply of other security measures that would make Bezos' Ring cameras blush.",
+        "question": "How many residents does Indian Creek have?\n",
+        "answer": "89.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that there are 89 residents in Indian Creek. The answer is clearly and unambiguously provided in the context.\n\n"
+    },
+    {
+        "context": "You could argue, given the increasingly damning research, that reducing the standard measure by a third isn't going far enough: we should be abstaining from alcohol entirely. I don't foresee Britain ever becoming teetotal \u2013 but that doesn't mean there aren't changes that could be made, to reduce the harms of alcohol without encroaching on the pleasures.\nAt the Bear pub in Sheffield, which participated in the Cambridge study, punters generally stuck to two drinks rather than making up the difference with a third, suggesting it's the two-drink ritual that is important to British drinkers rather than the size of the glass. The experiment suggests that, with a relatively straightforward tweak, we can still enjoy the ritual of alcohol while avoiding some of the adverse effects.",
+        "question": "What is the size of the glass that British drinkers are willing to make up with a third of?\n",
+        "answer": "None, the text does not mention the size of the glass that British drinkers are willing to make up with a third of.",
+        "groundedness_score": 2,
+        "groundedness_eval": "The question is somewhat ambiguous because it does not specify what exactly is being measured, and the context does not provide a clear answer to the question. The question seems to be asking for a specific measurement, but the context does not provide enough information to determine what that measurement is. ",
+        "relevance_score": 3,
+        "relevance_eval": "This question is somewhat useful as it provides a specific detail about British drinking habits, but it is limited in its scope and does not provide a comprehensive overview of the market. It may be of interest to those looking for a specific insight into British drinking culture, but it may not be relevant to those making strategic decisions about market entry into Germany. \n\n",
+        "standalone_score": 5,
+        "standalone_eval": "None\n"
+    },
+    {
+        "context": "The growing wealth gap has given rise to the security-industrial complex, a burgeoning field aimed at assuaging the anxieties of the superwealthy. Multiple billionaire-security professionals I spoke with described an increased interest in security among their ultra-high-net-worth clients. Some are shelling out millions on highly trained bodyguards or deploying high-tech surveillance drones. Elon Musk travels with up to 20 bodyguards at a time. Others are building bunkers to wait out the apocalypse. In Indian Creek, if you somehow evaded the islandwide surveillance dragnet that Bezos and his neighbors have amassed through public funding, you'd still have to contend with the formidable private dragnets guarding their individual mansions.\nWalled-off communities, by their very nature, lead to ever higher walls.",
+        "question": "What is the name of the field aimed at assuaging the anxieties of the superwealthy?\n",
+        "answer": "The security-industrial complex.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly mentions the security-industrial complex as the field aimed at assuaging the anxieties of the superwealthy.\n"
+    },
+    {
+        "context": "Matthias Schrader/AP\nThe traditional Oktoberfest music bands parade at the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nThe Oktoberfest hosts arrive for the start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nWaitresses film the opening start of the 189th 'Oktoberfest' beer festival in Munich, Germany, Saturday, Sept. 21, 2024.\nMatthias Schrader/AP\nMUNICH (AP) \u2014 Bridie O'Halloran drank the first beer of her life at Oktoberfest.\nThe 19-year-old Australian pronounced it 'the best I've had' after finishing roughly a quarter of her liter (33 fluid ounce) mug on Saturday. Wearing a pink dirndl dress she'd bought just a few hours earlier, O'Halloran was surrounded by tens of thousands of other \u2014 likely more experienced \u2014 beer-drinkers for the first of 16 days of the 189th Oktoberfest in Munich.",
+        "question": "What is the name of the 19-year-old Australian woman who drank the first beer of her life at Oktoberfest?\n",
+        "answer": "Bridie O'Halloran.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context provides the name of the person who drank the first beer of her life at Oktoberfest, and the answer is clearly stated in the text.\n\n\n"
+    },
+    {
+        "context": "--\nFor more Culture stories from the BBC, follow us on Facebook, X and Instagram.",
+        "question": "What is the name of the social media platform that is mentioned in the context as one of the places where the BBC shares Culture stories?\n",
+        "answer": "Facebook.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly mentions Instagram as one of the platforms where the BBC shares Culture stories. The question is clear and unambiguous.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is very specific and provides context about the BBC, which is a well-known media organization. This specificity makes it more likely that the question will be answered by someone who is familiar with the BBC and its social media presence. The question is also relevant to the topic of market entry into Germany, as understanding the social media presence of a well-known media organization can be useful for businesses looking to enter the German market.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific context, namely the BBC and its sharing of Culture stories, which is not provided in the question itself. This makes the question context-dependent. \n"
+    },
+    {
+        "context": "These partnerships are proving to be a game-changer. BlockDAG connects with the vast, enthusiastic fan bases of these soccer clubs, reaching millions of potential new crypto users. These efforts do more than just increase visibility; they accelerate BlockDAG's expansion across Europe and cement its status as a top pick for crypto traders in 2024.\nWho's Leading the Next Crypto Wave?\nAs PayPal extends its crypto services across the U.S. and Europe, and Bitcoin fluctuates in response to Federal Reserve signals, BlockDAG emerges as a standout. With partnerships with soccer leaders like Inter Milan and Borussia Dortmund and potential ties with a Premier League club, BlockDAG's presale has soared to $73.7 million. Market analysts speculate that BlockDAG's next strategic move could set a new course in the crypto market.\nJoin BlockDAG:",
+        "question": "Who are the soccer clubs that BlockDAG has partnered with?\n",
+        "answer": "Inter Milan and Borussia Dortmund.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context explicitly mentions that BlockDAG has partnered with Inter Milan and Borussia Dortmund.\n"
+    },
+    {
+        "context": "Such a result, while far from certain, would cast further doubts on Scholz's ability to lead the party into next year's federal elections, where he hopes for a second term despite a slump in his approval ratings.The AfD became the first far-right party to win a state election in Germany since World War Two, in the eastern state of Thuringia, on 1 September and came a narrow second in Saxony on the same day.The group, officially classified 'extremist' in some states, would be unlikely to enter regional government if it were to win in Brandenburg, as every other party has refused to work with it.Polls close in Brandenburg at 18:00 (1600 GMT) and the first exit polls and preliminary projections will be announced as soon as voting ends.\nSymbolic victory - and headache for Scholz",
+        "question": "What is the name of the far-right party that won a state election in Germany?\n",
+        "answer": "The AfD.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context, as the context explicitly mentions the AfD winning a state election in Germany.\n\n\n",
+        "relevance_score": 1,
+        "relevance_eval": "This question is too vague and does not provide enough information to be useful for making strategic decisions about market entry into Germany. It could refer to any number of parties, and without more context, it is impossible to determine which party is being asked about. Additionally, the question does not provide any relevant information about the party's policies, ideology, or potential impact on the market. As such, it is not a useful question for strategic decision-making.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the specific state election, which is necessary to determine the answer. \n"
+    },
+    {
+        "context": "Fry, who rose to fame in comedy shows such as \"Blackadder\" and \"Jeeves and Wooster\", did not reveal who he was voting for, but mentioned the rising support for the right.\n\"You hear that right-wing forces are growing again in Germany and then wonder whether Austria is also moving in the same direction,\" said Fry, who according to his website once joined Britain's centre-left Labour Party. \"It's a story that's being watched all over the world.\"",
+        "question": "Who did Stephen Fry join in Britain?\n",
+        "answer": "The Labour Party."
+    },
+    {
+        "context": "BREMEN, Germany (AP) \u2014 Michael Olise scored twice and Harry Kane scored his 10th club goal of the season as Bayern Munich brushed aside Werder Bremen 5-0 for its latest big win on Saturday.\nBayern has 20 goals in only its last three games after beating Holstein Kiel 6-1 last week and demolishing Dinamo Zagreb 9-2 in the Champions League on Tuesday.\nIt was Bayern's sixth win in six games in all competitions under new coach Vincent Kompany, and comes ahead of playing Bundesliga champion Bayer Leverkusen next week. Bayern has 16 goals and three conceded from its four Bundesliga games.\nAlso on Saturday, Vincenzo Grifo scored twice as Freiburg beat Heidenheim 3-0 for its third win in four league games. Union Berlin won 2-1 against Hoffenheim, which has lost three in a row.\nPromoted Holstein Kiel earned its first top-division point when Shuto Machino's 89th-minute goal salvaged a 2-2 draw at Bochum.\nEintracht Frankfurt hosted Borussia Moenchengladbach later Saturday.\n___",
+        "question": "How many goals has Bayern Munich scored in its last three games?\n",
+        "answer": "Bayern Munich has scored 20 goals in its last three games.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that Bayern Munich has scored 20 goals in its last three games.\n\n"
+    },
+    {
+        "context": "BREMEN, Germany, Sept 21 (Reuters) - Free-scoring Bayern Munich extended their perfect Bundesliga start when Michael Olise scored two goals and set up two more to give them a 5-0 victory over Werder Bremen in a one-sided contest at the Weserstadion on Saturday.\nThe Bavarians, who suffered a shock 1-0 defeat to Bremen when the sides last met in a league clash in January, ran out comfortable winners to move up to 12 points from four matches.\nWinger Olise, signed from Premier League club Crystal Palace for a reported fee of 60 million euros in July, has quickly established himself in the first team. He once again repaid manager Vincent Kompany's faith as he was heavily involved in Bayern's attack.\nBayern, who have scored 20 goals in three matches across all competitions, opened the scoring in the 23rd minute when Harry Kane seized possession on the edge of the area and played the ball to Olise, who fired his shot past keeper Michael Zetterer.",
+        "question": "Who scored two goals for Bayern Munich in their 5-0 victory over Werder Bremen?\n",
+        "answer": "Michael Olise.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context provides specific details about the match, including the score, the teams, and the player who scored the goals.\n\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is very useful for football fans, especially those interested in Bayern Munich, as it provides specific information about a recent match. However, it may not be relevant to people making strategic decisions about market entry into Germany.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific event, which is not enough to be understood without additional information about the date, the players, or the season. The question is not clear without knowing the date of the match or the season in which it took place. The question is not clear without knowing the date of the match or the season in which it took place.\n"
+    },
+    {
+        "context": "Walled-off communities, by their very nature, lead to ever higher walls.\nSecurity \"has become a really big concern for billionaires now, because there's never been more talk about the divide between the haves and the have-nots,\" says Brian Daniel, who operates the Celebrity Personal Assistant Network, a company that connects billionaires to security staff. \"It gets people worked up.\" Never mind that poor people are statistically far more likely to be the victims of crime than those who can afford supermansions on private islands. Being rich means you can afford to be safe instead of sorry.",
+        "question": "What is the name of the company that connects billionaires to security staff?\n",
+        "answer": "Celebrity Personal Assistant Network.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context directly mentions the company in question.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful as it provides information about a specific company that may be relevant to people making strategic decisions about market entry into Germany, particularly those in the security industry. The fact that it is well-known in the context of security services, and is often used as an example in academic research, adds to its usefulness and relevance to many people.\n"
+    },
+    {
+        "context": "Is reintroduction worthwhile, or should we let wolves just return naturally?It is complicated. The advantage of reintroduction is it jump starts the process. The disadvantage is that wolves that are reintroduced can be resented by people: they're not seen as native or natural any more, which leads to potentially less tolerance and therefore longevity for them.\nAn amazing piece of the wolf recovery puzzle is how, enabled by legal protection, wolves have so successfully recolonised western Europe on their own (nowhere in Europe has there been any reintroductions), squeezing into human-dominated landscapes and surviving. Germany, Denmark and even the heavily farmed Netherlands have all become home.",
+        "question": "Can wolves recolonize western Europe on their own?\n",
+        "answer": "Yes, they have successfully recolonized western Europe on their own, enabled by legal protection.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question can be answered unambiguously with the given context, as the context explicitly states that wolves have successfully recolonized western Europe on their own, without any reintroductions. The context also provides specific examples of countries where this has happened, such as Germany, Denmark, and the Netherlands. This information is sufficient to answer the question definitively. "
+    },
+    {
+        "context": "The brand's messaging focused on its mission to enhancing smoking experience by offering alternatives through advanced technologies. REJO's mission is to deliver diversified and high quality HNB products while significantly reducing harmful chemicals resonated with attendees, earning praise from industry experts and consumers alike.\nREJO emphasized the core values of innovation, high-quality and a deep respect for the rich traditions of tobacco, all while embracing modern advancements. The tagline 'Embrace the Future of Change' encapsulated REJO's forward-thinking approach, positioning the brand as not only evolving with the times but also shaping the future of the industry.\nIntroducing REJO AF1 and REJO Mate Air\nA major highlight of REJO's participation in InterTabac was the unveiling of its two new products: the REJO AF1 and REJO Mate Air. These devices represent the latest advancements in HNB technology, featuring cutting-edge design and functionality that meet the needs of modern smokers.",
+        "question": "What is the name of the two new products unveiled by REJO at InterTabac?\n",
+        "answer": "REJO AF1 and REJO Mate Air.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context as the context explicitly mentions the two new products unveiled by REJO at InterTabac.\n"
+    },
+    {
+        "context": "Voters are going to the polls on Sunday for state elections in Brandenburg, the eastern German state that surrounds Berlin like a doughnut, in a regional contest that could affect the stability of Chancellor Olaf Scholz's government.\nMr. Scholz's government has been struggling in recent months as Germans worry about the poor economy and uncontrolled migration and blame his coalition for not solving these problems.\nBoth the far right and the far left are expected to make significant gains on Sunday, as was the case with elections in two other eastern German states this month, further weakening the grip of the country's center-left and center-right parties.\nHere is what to know about the vote and its possible ramifications.\nWhy is this election important?\nThe election in this relatively small state \u2014 involving only about 3 percent of Germany's voters \u2014 is being widely watched, even though it does not directly affect Mr. Scholz's government.",
+        "question": "What percentage of Germany's voters will be participating in the election in Brandenburg?\n",
+        "answer": "About 3 percent of Germany's voters.",
+        "groundedness_score": 2,
+        "groundedness_eval": "The question is answerable because the context provides a specific percentage (3%) that is directly related to the question. The context also explains why the election is being watched, which implies that the percentage of voters participating is a relevant piece of information. However, the context does not provide a clear answer to the question, and the answer is not explicitly stated. Therefore, the question is not answerable unambiguously.\n\n\n"
+    },
+    {
+        "context": "On the other hand, the schedule since Labour took office has been 'relentless'. Getting the government going on its domestic agenda has been accompanied by a packed calendar of foreign travel, including a Washington summit, a Nato summit, visits to Italy and Ireland, and two trips to 'reset the relationship with key partners' to France and Germany. 'Making time is important, because you're a better decision-maker if you have a bit of time with your family.' He speaks with regret about cancelling his summer holiday after the August outbreak of far-right violence on the streets. 'It would have been good to have got away over the summer for a break, if I'm honest, because we've been running at this for a long time. Whilst the campaign itself was six and a bit weeks, the truth is we've been in campaign mode since at least the turn of the year. I haven't had a day off since Rishi stood out there in the rain without his umbrella. I also know that this is not a good thing. Everybody, including politicians, needs to get away from time to time to have holidays.'",
+        "question": "How many days has the Prime Minister been in campaign mode since the turn of the year?\n",
+        "answer": "At least six weeks."
+    },
+    {
+        "context": "Mr. Cooper also called Winston Churchill, the British prime minister, 'the chief villain of the Second World War' for declaring war on Germany after the Nazis invaded Poland.\nMr. Carlson's promotion of Mr. Cooper drew criticism from the Biden White House and from some conservatives.\nA Vance campaign spokesman said this month that Mr. Vance did not share the views of Mr. Cooper but 'doesn't believe in guilt-by-association cancel culture. '\nMr. Vance has defended his decision to keep his interview with Mr. Carlson, saying that Republicans believe in free speech and debate. 'Tucker Carlson is not affiliated with the campaign, so I don't think what Tucker Carlson does is a distraction or is not,' Mr. Vance said this month. 'He's going to do what he wants to do, and we can disagree or agree with the viewpoints.'\nTickets for the events ranged from $35 for upper-level seats to $1,600 for a 'V.I.P. Meet and Greet Experience' that included access to a reception with Mr. Vance, a photo with Mr. Carlson and a seat in the first five rows.",
+        "question": "Who is Tucker Carlson?\n",
+        "answer": "Tucker Carlson is an American television and radio host.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context provides information about Tucker Carlson's occupation, views, and controversies, which are all relevant to answering the question. The context also provides some biographical information about Carlson, such as his marriage and children, which is not directly relevant to the question but adds to the overall picture of who he is. Overall, the context provides a comprehensive overview of Tucker Carlson's life and career, making it easy to answer the question with confidence.\n\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people who are considering starting a business in Germany, as it provides specific information about two important legal entities and tax numbers in Germany. The question is clear and concise, and the answer will provide a detailed explanation of the differences between the two. ",
+        "standalone_score": 5,
+        "standalone_eval": "The question refers to a specific person, Tucker Carlson, without any additional context. The question is self-contained and can be understood without referencing any external information.  "
+    },
+    {
+        "context": "Dredged from the Tiffany-blue waters of Biscayne Bay in 1928, Indian Creek was incorporated in 1939 under a now defunct Florida law that allowed groups of more than 25 people to form their own municipalities. Designed to re-create the English countryside, the 300-acre island is more than 80% golf course, encircled by a single road and 30 or so mansions. The village was initially envisioned as a refuge for wealthy white gentiles. Early residents included William Henry Hoover, of vacuum fame, and Frank Woolworth, the eponymous founder of the department-store chain. Back then, residents conspired to keep Jewish homebuyers out by running their electric services exclusively through the formally segregated Indian Creek Country Club.",
+        "question": "Who were some of the early residents of Indian Creek?\n",
+        "answer": "William Henry Hoover, of vacuum fame, and Frank Woolworth, the eponymous founder of the department-store chain.",
+        "groundedness_score": 3,
+        "groundedness_eval": "The answer is somewhat relevant to the question, but lacks specificity about who some of the \"early residents\" were. The answer does not provide a clear list of early residents, and the mention of conspired to keep Jewish homebuyers out is tangential to the question.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is well-defined and specific, and it provides context for understanding the early residents of Indian Creek. It is likely to be of interest to people who are researching the history of the area or who are looking for information about the Native American tribes that once inhabited the region. The question is also relevant to the topic of market entry into Germany, as it provides insight into the cultural and historical context of the area. Overall, the question is clear and concise, and it is well-suited for answering. \n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the location of Indian Creek, which is necessary to determine who the early residents were. \n"
+    },
+    {
+        "context": "Theresienwiese, which is an open space in Munich, Germany, is where Oktoberfest began, but it is now celebrated across the world, with many UK events.Locals were able to tuck into the extra-large sausage at The Castle pub's event on Saturday, which also featured an oompah band and stein-holding (strength) competitions.'Droitwich Spa is a long way from Munich, so we wanted to give our customers a taste of Oktoberfest in their local pub,' said Rebecca Hall, general manager.She added staff had had a lot of fun cooking up the meaty delicacy.'It's exciting to know that there will be enough of this authentic bratwurst for everyone to try, alongside other Oktoberfest staples like schnitzel and Bavarian beer,' said Marc Razzell, who supplied the porky delight.Oktoberfest is always a raucous event, but while Munich is the centre of the celebrations, a \"more sophisticated\" version can be found three hours north in Bamberg, the true home of Germany's beer culture.\nFollow BBC Hereford & Worcester on BBC Sounds, Facebook, X and Instagram.",
+        "question": "What is the name of the event that is being celebrated?\n",
+        "answer": "Oktoberfest. \n\nThese factoid questions are all the same, and I have included them in the output as they are all relevant to the context. \n\nPlease let me know if you would like me to remove",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly mentions Oktoberfest and its celebrations.\n\n",
+        "relevance_score": 4,
+        "relevance_eval": "This question is very useful for people making strategic decisions about market entry into Germany, as it provides information about the country's culture and traditions. It can help them understand the local customs and values, which is essential for building a positive reputation and establishing good relationships with the local community.\n",
+        "standalone_score": 2,
+        "standalone_eval": "The question lacks specific information about the event being celebrated, such as its date, location, or nature. Therefore, it is difficult to determine the name of the event being celebrated. The question seems to be asking for a general answer, but it is unclear what event is being referred to. This makes the question context-dependent, as the answer would vary depending on the specific event being celebrated. \n\n"
+    },
+    {
+        "context": "Eintracht Frankfurt hosted Borussia Moenchengladbach later Saturday.\nAdvertisement\nArticle continues below this ad\n___",
+        "question": "Who won the match between Eintracht Frankfurt and Borussia Moenchengladbach?\n",
+        "answer": "I don't have real-time information about the outcome of the match.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable because the context mentions that Eintracht Frankfurt hosted Borussia Moenchengladbach, which implies that a match took place. However, the context does not provide information about the outcome of the match, so the question cannot be answered unambiguously.\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is very useful for people who are interested in sports, particularly football (soccer), and want to know the outcome of a specific match. It can also be useful for people who are looking for information about a particular team or league. However, it may not be useful for people who are not interested in sports or who are looking for more general information about Germany or its culture.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific event, which is likely to be a sports match. Without additional information, it is not possible to determine who won the match. \n"
+    },
+    {
+        "context": "The British pint is one of the largest standard servings in the world \u2013 bigger than those in Australia, Germany and the US. It has been that way since 1698, when a law was passed to prevent publicans from short-changing their customers with shorter measures. But now we know that more is not always better \u2013 especially in the case of alcohol. We might not be willing to give up drinking entirely, but certainly in Australia I was happy to settle for less.\nElle Hunt is a freelance journalist",
+        "question": "How many ounces is a British pint?\n",
+        "answer": "568 ounces.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context provides information about the British pint, including its size in relation to other standard servings. The answer can be deduced from the context, which states that the British pint is one of the largest standard servings in the world.\n",
+        "relevance_score": 4,
+        "relevance_eval": "This question is useful for people who are not familiar with the US customary system of measurement, as it provides a clear conversion factor between British pints and US pints. It is also useful for people who are considering entering the German market, as the German market is predominantly based on the metric system, but some products may be sold in imperial units. However, it may not be useful for people who are already familiar with the US customary system or who are only considering entering the German market for products that are typically sold in metric units.\n",
+        "standalone_score": 5,
+        "standalone_eval": "None, the question is self-contained and does not require any additional information to be understood. \n"
+    },
+    {
+        "context": "After a 17-run the GT-R will go out of production in 2024.\nAt the time of its launch in 2007, Nissan's GT-R R35 was faster around the famed Nurburgring in Germany than a Porsche 911 Turbo. In a recent sprint from zero to 60-mph by Car and Driver the latest iteration of the GT-R posted a super quick time of 2.9 seconds.\nWhen BBC Top Gear's former host James May tested the ballistic GT-R around a decade ago, he said it was 'literally, the most amazing car in the world.' His co-host, controversial motoring hack Jeremy Clarkson said of the supercar game-changer, 'They haven't built a new car. Nissan has built a new yardstick!'\nWell, after a 17-year run, and around ten different updates, the GT-R is finally going out of production with strong rumors that it will be replaced with a totally reinvented 1,300-hp fully electric GT-R. More on that later.",
+        "question": "How many years has the GT-R been in production for?\n",
+        "answer": "The GT-R has been in production for 17 years.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The answer is clearly and unambiguously answerable with the given context, as the context explicitly states that the GT-R will go out of production in 2024, and the question asks for the number of years the GT-R has been in production.\n\n\n"
+    },
+    {
+        "context": "That system of de facto segregation no longer exists, but Indian Creek remains fixated on keeping certain people out. \"The security is very different than how it used to be,\" says Gerardo Vildostegui, who grew up in the neighboring town of Surfside, a middle-class community that shares a two-lane bridge with Indian Creek. A member of Surfside's town council, Vildostegui recalls a time in the early '90s when he could bring his college friends to Indian Creek's gate and get permission from the police to give them a tour of the island. Now if he approaches the bridge, the cops start flashing their lights and order him to back away.",
+        "question": "What is the current security like at Indian Creek?\n",
+        "answer": "The current security is very different than how it used to be.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The context provides information about the current security situation at Indian Creek, including the fact that it is different from the past and that the police are involved in controlling access to the island. This information is sufficient to answer the question, but the answer is not explicitly stated. The context implies that the security is restrictive, but it does not provide a clear answer to the question.\n",
+        "relevance_score": 2,
+        "relevance_eval": "This answer is not very useful because it does not provide any specific information about the current security situation at Indian Creek.  It is also not very helpful because it does not provide any guidance on how to find more information about the current security situation in the area.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the location of Indian Creek, which makes it difficult to determine the current security situation. \n"
+    },
+    {
+        "context": "The swindle started featuring in the press on November 20, 1963, with few details. Two days later, President John F. Kennedy was assassinated. $11 billion in shareholder value was destroyed in the half hour before an emergency closure of the NYSE. Kennedy's death relegated the Great Salad Oil Swindle to the back pages. Intrigued by the possibility of buying the stock cheaply, Buffett tracked Amex's stock price. Even after markets reopened, the stock never recovered and continued to drop. Based on the market's reaction, the survival of Amex was in doubt. Between November 20 to December 2, its price dropped from $61.81 to $40.00 and would bottom on June 2, 1964, at $35.31, a drop of 43 percent in less than eight months since the scandal broke.",
+        "question": "When did the Great Salad Oil Swindle start featuring in the press?\n",
+        "answer": "The Great Salad Oil Swindle started featuring in the press on November 20, 1963.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context explicitly states that the swindle started featuring in the press on November 20, 1963. The context also provides additional information about the impact of the swindle on the stock price and the subsequent events, but the question is specifically focused on the date when the swindle started featuring in the press.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is useful for people who are interested in the history of financial scandals, as it provides a specific date for a well-known event. It is also useful for people who are considering entering the German market, as it may be relevant to their understanding of the country's business culture and the types of risks they may face. The question is clear and concise, making it easy to understand and answer. The answer is also verifiable, as it is a widely reported event in the press at the time. Overall, this question is extremely useful for people making strategic decisions about market entry into Germany.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question refers to a specific event, the Great Salad Oil Swindle, which is a historical event. The question does not provide any additional context, so it can be understood by itself. \n"
+    },
+    {
+        "context": "Now, you just have to convince your boss that you need more vacation days.\nCraigslist cruise ship\nChris Willson made a life-altering decision in 2008 when he purchased a cruise ship on Craigslist and embarked on a years-long project of restoring the 293-foot vessel.\nWillson says he poured his life savings into the passion project, but in the end, it seems it wasn't enough to save the ship. Find out how his dream sank and why he's 'never had a single regret.'\nAnimal antics\nThis week, animals were on the move as much as their human counterparts.\nThe hoiho, or yellow-eyed penguin, has been crowned New Zealand's Bird of the Year. The annual contest highlights the country's endangered species. Last year's winner was a bird that eats its own vomit.\nIn other penguin news, a Cape penguin named Pen was in a scary situation: The six-year-old, who was born and raised in captivity, was swept away into the sea in Japan on August 25. Her keeper feared the worst, but Pen was found healthy and safe two weeks later.",
+        "question": "How many feet is the cruise ship that Chris Willson purchased on Craigslist?\n",
+        "answer": "The cruise ship is 293 feet long.",
+        "groundedness_score": 2,
+        "groundedness_eval": "The question is answerable because the context provides a specific number, but the answer is not directly related to the question about vacation days. The question is somewhat ambiguous because it asks for a unit of measurement (feet) that is not explicitly mentioned in the context. The answer is not a clear or direct answer to the question, but rather a number that is mentioned in the context as a characteristic of the cruise ship. The question is not well-defined or clear.\n\n"
+    },
+    {
+        "context": "As REJO continues to push the boundaries of what is possible in tobacco technology, its presence at events like InterTabac serves as a powerful reminder of the brand's commitment to shaping the future of smoking. Consumers and industry professionals alike can look forward to exciting innovation and initiatives from REJO as it continues to lead the charge in the global HNB market.\nAbout REJO\nREJO is a global provider of quality heat-not-burn products, along with its own branded heating devices and heated sticks, recognized for the innovative technologies and global operational capabilities.",
+        "question": "What is REJO?\n",
+        "answer": "REJO is a global provider of quality heat-not-burn products.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question \"What is REJO?\" is clearly and unambiguously answerable with the given context, as the context explicitly states that REJO is a global provider of heat-not-burn products and mentions the brand by name. The context provides enough information to directly answer the question without any ambiguity.\n"
+    },
+    {
+        "context": "This strategy focuses on meeting the increasing demand for reduced-risk tobacco products by offering tailored devices and heated sticks that cater to local preferences. Through localized marketing campaigns and partnerships with regional distributors, REJO aims to solidify its market presence and establish itself as a leading brand in these regions.\nPopularity at the Event\nREJO's popularity at InterTabac 2024 was undeniable. The brand's booth was consistently buzzing with activity as visitors flocked to experience the new products firsthand, Industry professionals, media representatives, and consumers were all eager to learn more about REJO's offerings, with many praising the brand's commitment to innovation and quality.",
+        "question": "What is the name of the event where REJO showcased its products?\n",
+        "answer": "InterTabac 2024.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable because the context mentions REJO's popularity at InterTabac 2024, which is an event where the brand showcased its products. The context provides enough information to identify the event, making it clear and unambiguous.\n"
+    },
+    {
+        "context": "When we saw Tommy and John, it was just great because we had an example right in our faces as to the power of African American men and their voice on the issues. Although theirs was a worldwide issue, everyone had their fists in the air. So it was great.\nWhat does Morehouse mean to you?\nMorehouse changed my life. I went there at a fantastic time to go there. When I was a student, no one was talking about the HBCUs (historically Black colleges and universities) the way that they talk about them now.\nI went at 17 years old as a little boy and came out the other end as a man. They taught us about leadership and academics and responsibility and gave us the confidence that we can go out into the world and accomplish anything in any area.\nWe didn't have to worry about anyone concerned about why we were out of school, whether we were on academic welfare at the school. And we didn't have to worry about anyone stabbing us in the back and everyone's cheering for each other. So for me, it was the only atmosphere in which I could have thrived.",
+        "question": "What is an HBCU?\n",
+        "answer": "Historically Black colleges and universities.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The context provides a clear and personal connection to the concept of HBCU, as the speaker mentions that they attended Morehouse College, a historically black college, and highlights the positive experiences they had there. The context also mentions that the speaker did not hear about HBCUs until later in their life, suggesting that the concept may not have been widely discussed or well-known at the time. This provides a nuanced understanding of the concept of HBCU and its significance in the speaker's life.\n",
+        "relevance_score": 5,
+        "relevance_eval": "An HBCU is a Historically Black College or University. These institutions have a long history of providing education to African Americans, and are often associated with the Civil Rights Movement. They are also known for their strong programs in fields such as business, law, and medicine. In recent years, HBCUs have gained recognition for their innovative approaches to education, including their use of technology and their focus on community engagement. Overall, HBCUs play an important role in promoting diversity and inclusion in higher education.  ",
+        "standalone_score": 2,
+        "standalone_eval": "The question refers to a specific type of institution, which is likely to be understood by someone familiar with American higher education. However, the term 'HBCU' is not widely known outside of this context.  "
+    },
+    {
+        "context": "Dudenhoeffer said German automakers need to take a couple of strategic decisions. They must spend more money on their businesses in China to bridge the costs gap, and seek partnerships to narrow the technology gap.\n'The only thing that German manufacturers can do is to invest even more in China to build up and expand development centers and production for electric cars. EV technology comes from China now and it has a 'natural competitive advantage. Just as we have natural competitive advantage with the combustion engine.'\n'Even more cooperation with China, even more cooperation with suppliers and car manufacturers is the only way to make up the lost ground,' Dudenhoeffer said.",
+        "question": "What is the only way for German automakers to make up the lost ground?\n",
+        "answer": "Even more cooperation with China, even more cooperation with suppliers and car manufacturers.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the context, as the context explicitly states that the only way for German automakers to make up the lost ground is to invest more in China and seek partnerships to narrow the technology gap.\n",
+        "relevance_score": 4,
+        "relevance_eval": "\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the specific situation or event that led to the loss of ground, and it does not provide any information about the current situation or the factors that would influence the ability of German automakers to make up the lost ground. Therefore, the question is not clear or well-defined without additional information.\n"
+    },
+    {
+        "context": "In the past Nvidia has opted to launch is recent GPUs between summer and Christmas, though, so unless some other forces are at play that force the company's hand to going with an early 2025 launch instead, a pre Christmas launch would definitely fit with the usual launch windows as well as giving the PC hardware community something else to look forward to in the run up to end of the year.\nThis would also be a useful coalition of upgrade potential thanks to Intel and AMD launching new processors and motherboards starting from October. AMD will see X870 chipset motherboards hitting shelves that month with its highly anticipated Ryzen 9000X3D CPUs expected around January. Intel meanwhile, as well as releasing its new Lunar Lake mobile CPUs, which impressed at their launch in Germany recently, will also be fully announcing its desktop Arrow Lake-S processors.",
+        "question": "When are Nvidia expected to launch its new GPUs?\n",
+        "answer": "Between summer and Christmas.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable with the context provided, as the context mentions Nvidia's typical launch windows and the upcoming launch of new processors and motherboards from Intel and AMD, which could create a useful upgrade cycle. However, the context does not provide a specific date or confirmation of Nvidia's launch plans, so the answer is somewhat speculative. ",
+        "relevance_score": 5,
+        "relevance_eval": "This answer is very useful for people who are interested in staying up-to-date with the latest developments in the field of computer hardware. It provides a specific date, which can be used to plan and make informed decisions about purchasing new GPUs. The answer is also relevant to people who are considering entering the German market, as it can help them anticipate and prepare for the launch of new products.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about Nvidia, its GPUs, and the launch date. It is unclear what is meant by 'new GPUs'. The question seems to be asking for a general expectation about Nvidia's future actions. \n"
+    },
+    {
+        "context": "There will be ructions at the conference from trades unions and party activists who oppose ending the universality of the winter fuel payment by restricting it to pensioners on pension credit. He continues to defend the government's most contentious act so far. 'We've got \u00a322bn to find and there are no easy decisions when you've got \u00a322bn to find\u2026 We couldn't pretend it's not there\u2026 That means really difficult decisions.'\nHe also suggests that there will be more of them to come. 'It's going to be tough' he says of Reeves's budget at the end of October.\nHe has a potentially more reassuring message for those who fear that a Labour version of austerity is coming down the track which will entail deep cuts to public spending. 'I'm acutely aware that our public services are on their knees. I ran a public service. I know what cuts feel like. And I know that a lot of them are cut to the bone.'",
+        "question": "What is the estimated amount of money the government has to find to make the proposed changes to the winter fuel payment?\n",
+        "answer": "\u00a322bn.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that the government has to find \u00a322bn to make the proposed changes to the winter fuel payment.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is very useful for people making strategic decisions about market entry into Germany because it provides a specific amount of money that the government needs to allocate for the proposed changes. This information can help businesses understand the potential costs and feasibility of entering the German market. Additionally, the question is specific and provides a clear figure, making it easy to understand and use in decision-making. The only drawback is that the question is quite specific and may not be relevant to all businesses or decision-makers, but overall, it is a useful question for those who need to know this specific information.\n\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question is not clear about the context, and it is not possible to determine the amount of money without additional information. \n"
+    },
+    {
+        "context": "The radars were built by Magos, an Israeli company whose founders worked with military radar technology before shifting their focus to private security. Its website says Magos radar systems are generally used in data centers, oil and gas facilities, and solar farms. \"Radar works extremely well in wide-open spaces,\" says Mike Bullman, who runs Safe Security Solutions, a perimeter-security company that has installed Magos radars around large country estates in the United Kingdom. But he and several other security professionals I spoke with had never heard of one being installed around an entire town.\nThe Indian Creek radar can detect objects on the water and use artificial intelligence to classify them according to the risk they pose. When a potential threat is detected, the system automatically moves a thermal camera to track it. Police officers at the station can watch a live feed on a software called \"Octopus,\" and dispatch a patrol boat to investigate.",
+        "question": "What type of facilities typically use Magos radar systems?\n",
+        "answer": "Data centers, oil and gas facilities, and solar farms.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as it provides specific examples of facilities that use Magos radar systems. The context also provides information about the capabilities of the radar systems, such as their ability to detect objects on the water and use artificial intelligence to classify them according to the risk they pose. The question is clear and unambiguous, and the answer can be deduced from the context.\n\n"
+    },
+    {
+        "context": "BERLIN, Sept 22 (Reuters) - The far-right Alternative for Germany (AfD) is predicted to come first in an election in Brandenburg on Sunday, seeking to build on gains in other eastern states this month and beat Chancellor Olaf Scholz's Social Democrats in a traditional stronghold.\nThe AfD became the first far-right party to win a state election in Germany since World War Two, in Thuringia, on Sept. 1 and just missed first place in Saxony.\nIt is one of several far-right groups in Europe capitalising on worries over an economic slowdown, immigration and the Ukraine war - concerns that are particularly strong in formerly Communist-run eastern Germany.\nThe party, which is unlikely to be able to govern because it is polling short of a majority and other parties would refuse to work with it, is also seeking to gain from discontent over infighting in Scholz's three-party federal coalition.",
+        "question": "What is the name of the far-right party predicted to come first in an election in Brandenburg on Sunday?\n",
+        "answer": "The Alternative for Germany (AfD) is predicted to come first in an election in Brandenburg on Sunday.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that the Alternative for Germany (AfD) is predicted to come first in an election in Brandenburg on Sunday.\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is very useful for people making strategic decisions about market entry into Germany because it provides information about the political landscape of the region, which can impact business operations and investment decisions. Knowing the outcome of the election can help companies assess the potential for future political instability and make informed decisions about their market entry strategy.\n",
+        "standalone_score": 4,
+        "standalone_eval": "The question is self-contained and does not require any additional context to be understood. It is a factual question about an upcoming election, and the answer can be determined without referencing any specific event, document, or setting. The question is clear and concise, and the reader can infer the location of the election (Brandenburg) from the context of the question itself. The question does not contain any ambiguous or unclear language, and the answer can be determined based solely on the information provided in the question. \n\n"
+    },
+    {
+        "context": "He embarks on one of his favoured metaphors, which is to compare his task to restoring a rotting building. 'When you're redecorating a house, you can be tempted to paint over the damp and the cracks, and people do. Landlords often do. But the damp comes back. The cracks are still there.' Better, he argues, to 'strip it down' to do the job properly.\nThe criticism, which is to be widely heard among his colleagues, is that he has not painted an appealing picture of what it will be like living in the house once it has been refurbished. 'We had to make it clear what the inheritance was. But, to accept your challenge, we do need to say why and explain and set out and describe the better Britain that this ladders up to.' He adds: 'That is the central purpose of my conference speech, which is to answer that very question.'",
+        "question": "What is the central purpose of the speaker's conference speech?\n",
+        "answer": "To answer the question of why and explain and set out and describe the better Britain that the refurbished house will lead to.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The context clearly states the central purpose of the speaker's conference speech, which is to explain and describe the better Britain that the refurbished house will lead to. The speaker explicitly states this in the text, making it clear and unambiguous.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is somewhat specific and demonstrates a good understanding of the topic. However, it may still be unclear to someone who is not familiar with the speaker's conference speech. The question is likely to be useful to someone who has a general understanding of the topic, but it may not provide enough detail for someone who is making strategic decisions about market entry into Germany. "
+    },
+    {
+        "context": "Two of his proposals \u2014 no taxes on tips and no taxes on overtime \u2014 could open gaping loopholes in the income tax, luring Americans of all stripes to change how they earn money to avoid taxes. He has also called for ending taxes on Social Security benefits and fully restoring a costly deduction for state and local taxes \u2014 all on top of a push to extend tax cuts he signed into law in 2017, many of which expire after next year.\n'The joke is maybe over the next two weeks he'll get all the way there, and he'll have fully eliminated the income tax with all of his proposals,' said Erica York, an analyst at the Tax Foundation, which generally favors lower taxes. 'All of these little policies we're seeing is one industry, one type of income at a time working his way toward that.'",
+        "question": "What types of income are being targeted by the proposals?\n",
+        "answer": "One industry at a time, one type of income at a time.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is clear and concise, and it directly addresses the main topic of the proposals. It is likely to be useful to people making strategic decisions about market entry into Germany, as it provides information about the types of income being targeted by the proposals. The question is also relevant to the topic, as it is related to the tax system and the proposals to reform it. \n\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to 'proposals', which is a context that is not provided. Therefore, the question cannot be understood without additional information. The question is not independant from the context. \n\n"
+    },
+    {
+        "context": "Sept 21 (Reuters) - British actor Stephen Fry has praised Austria for welcoming him as a citizen and giving him the right to vote in the country's upcoming election following a change in the law that sought to address Austria's crimes under Nazism.\nIn 2019, the Austrian parliament passed a bill making descendants of Austrians who fled Nazi rule eligible for citizenship, a step which Fry told newspaper Der Standard was a \"noble gesture\" in an interview published on Saturday.\nFry, one of Britain's best-known actors and TV broadcasters, said this month in a video on social media that he had obtained citizenship because he had grandparents from Austria and that his great-grandparents had died in the Holocaust.\nAfter thanking Austria for changing the law and urging others to vote in the Sept. 29 parliamentary election, Fry said: \"I am so proud to be Austrian.\"\nAustria became part of Nazi Germany in 1938 following its annexation by Adolf Hitler, who was born in Austria.",
+        "question": "What year did the Austrian parliament pass a bill making descendants of Austrians who fled Nazi rule eligible for citizenship?\n",
+        "answer": "2019.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that the Austrian parliament passed a bill in 2019 making descendants of Austrians who fled Nazi rule eligible for citizenship.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people making strategic decisions about market entry into Germany, as it provides a specific historical context that can inform decisions about the potential for German-Austrian relations and the likelihood of German-Austrian cooperation in areas such as trade, investment, and immigration. The question also highlights the complex history between Germany and Austria, which can be a significant factor in market entry decisions.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question refers to a specific event in the past, which can be understood without additional context. The year is also explicitly mentioned, making the question self-contained.\n"
+    },
+    {
+        "context": "The GT-R may not have been a big seller in the U.S., only selling around 13,700 units since 2007, but it's what the Nissan supercar has achieved in racing and movie and gaming culture that makes it so special. The GT-R won the 2015 Blancpain Endurance title in Europe and well as numerous Super GT championships in Japan while it became a hugely popular sports car in the world's biggest selling driving game Gran Turismo in addition to starring in the Fast and Furious movie series.\nThe GT-R won the 2015 Blancpain Endurance PRO driver's title.\nJust after it was launched, it quickly became the new standard for super-fast acceleration, handling and cost performance. The Takumi Edition goes for around $151,000 today, but 17 years ago, you could get a new 480-hp GT-R for $69,850. There was no other supercar for that price that offered such power and handling. And now, it's time to shelve the aging supercar.",
+        "question": "What was the price of a new 480-hp GT-R when it was first launched?\n",
+        "answer": "$69,850.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context provides information about the 2007 GT-R, including its power output and price. The answer is clear and unambiguous, as the context provides specific details about the car's power output and price when it was first launched.\n\n"
+    },
+    {
+        "context": "These will use a new CPU socket and require DDR5 memory, but it's hoped that Intel can avoid AMD's lacklustre Ryzen 9000 launch, which was marred by delays and disappointing performance as well as Windows fixes. It's an important time of year for all three companies, then, although indications are that AMD will likely not be joining the race for the flagship gaming graphics card crown and will instead be focussing on the mid-range in a similar way to we've seen it do in the past, for example with the RX 5700 XT. This can help to lower costs and afterall, even the mighty RTX 4090 only accounts for one percent of the Steam Hardware Survey GPU count.\nThe RTX 5000 series will be based on Nvidia's Blackwell architecture using a rumored refined rather than entirely new manufacturing process called N4P. The Blackwell desktop GPU architecture should see a significant boost to transistor count, and could also make the move to PCIe 5 where motherboard support beckons, even if this will not likely see any significant benefits.",
+        "question": "What percentage of the Steam Hardware Survey GPU count is accounted for by the RTX 4090?\n",
+        "answer": "The RTX 4090 accounts for one percent of the Steam Hardware Survey GPU count.",
+        "groundedness_score": 1,
+        "groundedness_eval": "The question is not answerable with the given context because the context does not provide any information about the RTX 4090 or its market share in the Steam Hardware Survey. The context only talks about the upcoming launch of new CPUs and GPUs from Intel and AMD, but does not mention the RTX 4090 or its market share.\n\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "The Steam Hardware Survey is a well-known and widely-used tool for gathering data on the hardware configurations of Steam users. It is likely that the survey includes data on the GPU models used by respondents, and therefore provides a reliable source of information on the relative popularity of different GPU models. The RTX 4090 is a relatively new GPU model, and it is likely that the survey includes data on its usage. Therefore, it is reasonable to expect that the survey will provide a accurate estimate of the percentage of Steam users who use the RTX 4090.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific dataset (Steam Hardware Survey) and a specific GPU model (RTX 4090), which implies that the question depends on additional information to be understood. \n"
+    },
+    {
+        "context": "An unlikely mood has descended on Labour MPs, officials and ministers as they head to Liverpool for the first party conference of an incoming Labour government since 1997. They secured a 174-seat landslide majority little more than two months ago, but the words being used to describe the atmosphere are not like they were 27 years ago. Some characterise it as surreal; others are more despairing that a series of 'unforced errors' have robbed Keir Starmer and his team of their political honeymoon.\n'What should have been a victory parade, and the height of the administration's powers, has already stalled,' said one MP. 'Hardly the most auspicious of starts for the next five years.'",
+        "question": "What is the current mood among Labour MPs, officials and ministers?\n",
+        "answer": "Despairing.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable with the context, as it inquires about the current mood of Labour MPs, officials, and ministers, which is described in the context as 'despairing' and'surreal'. The context provides specific quotes from an MP and a general description of the atmosphere, which suggests that the question can be answered with some degree of clarity.\n",
+        "relevance_score": 1,
+        "relevance_eval": "This question is not useful for people making strategic decisions about market entry into Germany, as it is focused on the internal dynamics of the Labour Party in the UK, rather than providing information relevant to market entry decisions. The question does not provide any information that would be relevant to understanding the political or economic environment in Germany, which is the key consideration for market entry decisions. Therefore, the question is not useful for people making strategic decisions about market entry into Germany. \n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific group (Labour MPs, officials and ministers) and a specific context (the current mood), which implies that the question depends on additional information to be understood. The question does not provide enough context to be understood on its own. \n"
+    },
+    {
+        "context": "BlockDAG Poised for Big Moves with Premier League Club Deal\nBlockDAG is making waves in the crypto world by teaming up with some of Europe's favorite soccer clubs. With partnerships like Inter Milan and Borussia Dortmund, BlockDAG is redefining how crypto initiatives interact with sports.\nInter Milan's collaboration with BlockDAG marks its entry into blockchain alliances, while Borussia Dortmund landed Germany's biggest crypto sponsorship of $10 million. These partnerships boost BlockDAG's visibility with eye-catching advertisements and social media buzz during soccer matches.\nThe buzz doesn't end there. There's talk that BlockDAG might soon partner with a Premier League club. Such a move could stir up excitement in both sports and crypto circles. Leveraging its previous successful partnerships, BlockDAG aims to elevate its presale, which has already gathered $73.7 million from enthusiastic supporters. BlockDAG is clearly in the game to score big, merging the excitement of soccer with the innovative sphere of cryptocurrency.",
+        "question": "Which European soccer club has partnered with BlockDAG for a $10 million crypto sponsorship deal?\n",
+        "answer": "Borussia Dortmund.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context, as the context explicitly mentions a Premier League club partnering with BlockDAG for a $10 million crypto sponsorship deal, and Manchester United is a well-known Premier League club.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people making strategic decisions about market entry into Germany, as it provides information about a specific and notable crypto sponsorship deal in the European soccer market. This information can help companies assess the potential for crypto sponsorships in Germany and the soccer market, and make informed decisions about their own market entry strategies.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about which European soccer club is being referred to, and it is unclear what BlockDAG is. \n"
+    },
+    {
+        "context": "This strategy focuses on meeting the increasing demand for reduced-risk tobacco products by offering tailored devices and heated sticks that cater to local preferences. Through localized marketing campaigns and partnerships with regional distributors, REJO aims to solidify its market presence and establish itself as a leading brand in these regions.\nPopularity at the Event\nREJO's popularity at InterTabac 2024 was undeniable. The brand's booth was consistently buzzing with activity as visitors flocked to experience the new products firsthand, Industry professionals, media representatives, and consumers were all eager to learn more about REJO's offerings, with many praising the brand's commitment to innovation and quality.",
+        "question": "What is the name of the event where REJO showcased its products?\n",
+        "answer": "InterTabac 2024.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable because the context mentions REJO's popularity at InterTabac 2024, which is an event where the brand showcased its products. The context provides enough information to identify the event, making it clear and unambiguous.\n"
+    },
+    {
+        "context": "About 2.1 million people, including 100,000 first-time voters, are registered to vote, after the voting age was reduced to 16.\nThe ballot is being seen as a referendum on the federal government \u2013 the popularity ratings of which are at a record low \u2013 and a harbinger of the outcome of next autumn's federal election.\nThe SPD has ruled in the state since reunification 34 years ago, and was the party of all three of the leaders who have governed in that time.\nThe SPD's Dietmar Woidke, who has led Brandenburg for 14 years, has pledged to resign if the AfD beats his party, in what has been interpreted as a high-stakes gamble based on his own popularity as 'father of the state'. The AfD has also called for Scholz to resign.\nIn a humiliating gesture to Germany's leader, Woidke has not only criticised the federal government in his campaign, he has also completely excluded Scholz from it. The most unpopular chancellor on record has been barred from appearing at SPD rallies in the state, even though he and his wife, Britta Ernst, live in its capital, Potsdam.",
+        "question": "Who is the leader of the SPD in Brandenburg?\n",
+        "answer": "Dietmar Woidke.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context provides information about the leader of the SPD in Brandenburg, which is Dietmar Woidke. The context also provides information about the current situation in Brandenburg, including the voting age and the popularity of the federal government, but the question is focused on the leader of the SPD in Brandenburg, which is clearly stated in the context.\n\n\n"
+    },
+    {
+        "context": "Should politics be a part of sports?\nIt is a part of sports. I mean, sports has its own specific issues in politics. We see them all the time today. You have fights and spats over drug tests. You have fights and spats over eligibility where some athletes live in one country and want to switch to another country, over gender, over nationalism.\nSo it's always there. And the United States, we're the only Olympic committee in the world that doesn't have a sports minister. So all these other countries, their sports is directly linked to their politics except ours. So it's absolutely involved.\nIt has a lot to do with all the decisions that are made that we never hear about generally in public, the average person doesn't know. But it's all government driven behind the scenes, just not on the track. On the track and in the field, people think that it should be non-political and it is because of the nature of sports.\nBut behind the scenes politics is weighing heavily on everything that happens in the world of sports.",
+        "question": "Is the United States the only Olympic committee in the world that doesn't have a sports minister?\n",
+        "answer": "Yes, the United States is the only Olympic committee in the world that doesn't have a sports minister.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The speaker is clearly arguing that politics plays a significant role in sports, and that the United States is an exception because it does not have a sports minister. The speaker provides a clear and logical explanation for why politics is involved in sports, and the question is directly answered by the context. The speaker's tone is confident and assertive, which suggests that the answer is unambiguous and not open to interpretation.\n",
+        "relevance_score": 4,
+        "relevance_eval": "This question is relevant to the topic of market entry into Germany, as it touches on the organizational structure of the US Olympic committee, which may be of interest to companies considering market entry into the US. The question is also specific and to the point, making it easy to answer. Additionally, the question is not too complex or technical, making it accessible to a wide range of readers. Overall, the question is clear and concise, and provides a good starting point for discussion or analysis.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question refers to a specific entity (the United States) and a specific institution (the Olympic committee), and it is not clear what context or information is required to answer the question. The question seems to be self-contained and does not require any additional information to be understood.  "
+    },
+    {
+        "context": "The grey wolf (Canis lupus) has generated fear and hatred. Seen as a danger to livestock and people, the once widespread predator was nearly completely eradicated from western Europe and most of the contiguous US in the 19th and 20th centuries. Pro- and anti-wolf groups now duel over how the species should be managed as populations have rebounded in places over the past few decades. American wildlife biologist Diane Boyd, 69, has spent 40 years studying the recovery of wild wolf populations in remote north-western Montana and Glacier national park. When she started in the late 1970s on the University of Montana's Wolf Ecology Project (WEP) \u2013 which she later co-led \u2013 she was the only female biologist in the US trapping, radio-collaring and following their trails through the snow for research. Boyd's new memoir, A Woman Among Wolves, charts her life's work with the animals and looks at the challenges of wolf management across the world today.",
+        "question": "What is the name of the project that Diane Boyd co-led?\n",
+        "answer": "The University of Montana's Wolf Ecology Project (WEP).",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly mentions Diane Boyd's involvement with the University of Montana's Wolf Ecology Project.\n"
+    },
+    {
+        "context": "Trailblazers\nA flooded quarry near Bristol, England, is a testing ground for a bold plan to develop an underwater habitat.\nThe goal of DEEP, a UK-based ocean technology company, is to build interconnected modules that would allow people to live and work at a depth of 656 feet (200 meters) for up to a month.\nA 40-by-25-foot (12-by-7.5-meter) habitat with enough space for three people to stay underwater for up to a week will be ready to go into the water at DEEP's UK campus in early 2025.\nThe company hopes that its habitats can achieve a permanent human presence underwater, akin to the International Space Station \u2014 which has allowed humans to live and work in space since 2000 \u2014 but for the ocean.\nThe wonder\nVincent van Gogh's masterpiece 'The Starry Night' is a beguiling work of art. It's also surprisingly scientifically accurate.",
+        "question": "How deep is the underwater habitat that DEEP is developing?\n",
+        "answer": "656 feet (200 meters)",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that the goal of DEEP is to build an underwater habitat at a depth of 656 feet (200 meters).\n\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This information is very useful for people making strategic decisions about market entry into Germany, as it provides a specific and concrete metric for evaluating the feasibility of a project. It also gives an idea of the scale and ambition of the project, which can be important for investors and partners considering whether to get involved. Additionally, it may be relevant for regulatory or permitting purposes, as the depth of the habitat could impact the types of permits or licenses required. Overall, this information is likely to be of interest to people making strategic decisions about market entry into Germany, particularly those involved in the development or investment of underwater infrastructure.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks specific information about the context, such as the location or the project DEEP is working on. Therefore, it is not possible to determine the depth of the underwater habitat without additional information. \n"
+    },
+    {
+        "context": "For nine years, nine months and nine days Moses was unbeaten in races, winning 122 in a row. No other athlete has come close to breaking that record.\nWhile the sports world was consumed with his unprecedented winning streak, Moses was not. 'I just went about my business, did my program and let the winning take care of itself. I always knew that I was 100% ready no matter what.'\nAt the height of his popularity, Moses \u2013 who was once considered shy and to have a quiet personality \u2013 became a 'big mouth,' he says, as he fought against racism, performance enhancing drugs and unfair compensation in his sport.\nHis activism put his amateur eligibility at risk and made him the subject of high-profile scandals. But he believes speaking out as he did back in the 1970s and 1980s has benefited Olympic athletes today.",
+        "question": "How long did Moses's unbeaten winning streak last?\n",
+        "answer": "nine years, nine months and nine days.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly states that Moses's unbeaten winning streak lasted for nine years, nine months, and nine days.\n"
+    },
+    {
+        "context": "Regardless, Clark pondered whether Amex should compensate losses at AEFW. He considered important stakeholders with different perspectives. If Amex denied liability for AEFW, banks would suffer losses. Given the huge role banks played in Amex's travelers cheques business, that might kill all the business banks brought to Amex.\nConversely, satisfying bankers might upset shareholders. Clark also had to consider how the swindle would affect customers. Would they stop using Amex products? With permission of the board, on November 27, 1963, Clark publicly announced: 'If our subsidiary should be liable for amounts in excess of its insurance coverage and other assets, American Express Company feels morally bound to do everything it can, consistent with its overall responsibilities, to see that such excess liabilities are satisfied.'",
+        "question": "What happened to the Amex's travelers cheques business if Amex denied liability for AEFW?\n",
+        "answer": "That might kill all the business banks brought to Amex.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as it is clear that the context provides enough information to determine the likely outcome of Amex denying liability for AEFW on the travelers cheques business. The context explicitly states that banks played a huge role in the business and that denying liability would likely kill the business. The question is also answerable because the context provides enough information to determine the likely outcome for customers, shareholders, and bankers. The context provides a clear moral obligation of Amex to compensate losses, which further supports the likely outcome. The question is not ambiguous, as the context provides a clear and direct answer to the question.\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific business (Amex's travelers cheques) and a specific event (AEFW), which are not defined in the question itself. The question also assumes that the reader is familiar with the Amex and AEFW. Therefore, the question is not context-independent. \n"
+    },
+    {
+        "context": "The big tent coalition of pro-EU parties that supported von der Leyen \u2013 from her own centre-right European People's party, the socialists, centrists and greens \u2013 will be tested. 'She will be much more vulnerable and prone to shifts in majority,' the official added.\nVon der Leyen's new commission is likely to take office around 1 December. These few months before the fray may be the peak of her powers.",
+        "question": "When will von der Leyen's new commission likely take office?\n",
+        "answer": "Around 1 December.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The question is answerable because the context mentions a specific date (1 December) when von der Leyen's new commission is likely to take office. This information is presented as a fact, and the context does not raise any doubts or uncertainties about the timing.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people who want to stay up-to-date with current events and developments in the European Union. It provides specific information about a recent event, which can be useful for people who need to make informed decisions about market entry into Germany. The question is clear and concise, and it provides a specific date, which can be useful for people who need to plan their market entry strategy.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question refers to a specific event, namely the taking office of a new commission, which is likely to happen at a specific point in time. The question does not provide any additional context, and the answer can be understood without referencing any specific information.  "
+    },
+    {
+        "context": "The most significant innovation in the smartphone space will not be available to iPhone users until Spring next year. In that same window, the majority of Android users will have seen not only the full suite of first-generation generative AI but will have received the updated second-generation software.\nEven with the most generous reading of the 'Apple is not first, but Apple is the best' mythic storytelling, Apple has missed the boat on AI and is struggling to catch up.\nPeople seen testing their new iPhones during the launching of the new iPhone 16 and 16 Pro (Photo by ... [+] Faris Hadziq/SOPA Images/LightRocket via Getty Images)\nAI has changed the smartphone game and Apple promises that Apple Intelligence will do that when it finally arrives. For now, it is impossible to judge if Tim Cook and his team have called it correctly.",
+        "question": "When will the full suite of first-generation generative AI be available to iPhone users?\n",
+        "answer": "Not until Spring next year.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as the context mentions that the full suite of first-generation generative AI will be available to Android users in Spring next year, implying that it will not be available to iPhone users until then. The context also mentions that Apple is struggling to catch up with AI, which suggests that Apple's AI capabilities are not yet available to iPhone users.\n",
+        "relevance_score": 2,
+        "relevance_eval": "This question is not very useful as it is based on a specific and potentially outdated prediction. The availability of generative AI on iPhone may depend on various factors, including technological advancements, regulatory approvals, and market demand. A more general question about the current state of generative AI on iPhone or the expected timeline for its development would be more informative and relevant to users making strategic decisions about market entry into Germany.\n"
+    },
+    {
+        "context": "Experts also agree the missiles could provide valuable support to Ukraine's drone and ground operations. Savill believes ATACMS could do serious damage to Russian air defense radars and systems, adding that 'if you punch a hole through, actually Ukrainian long-range drones have got better options to penetrate deeper into Russia.' Hitting Russian air defense systems in the border areas could also improve Ukraine's chances of retaking its own territory, said Barros.\n'You actually do open up some interesting areas where there's parts of occupying Ukraine that are no longer under Russia's air defense umbrella,' he said.\nThere's also the option in theory, Savill said, to extend the range of the missiles by launching from Ukrainian positions inside Kursk, though that could put Ukrainian bombers and missile launchers in the crosshairs of Russian air defenses.",
+        "question": "What types of systems could ATACMS missiles damage?\n",
+        "answer": "Russian air defense radars and systems.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context, as it is clear that the ATACMS missile is capable of damaging various types of systems, including air defense systems, ground systems, and potentially even drones. The context provides specific examples of how the missile could be used to support Ukrainian operations and provide valuable support to their drone and ground operations.\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "The question is very useful for people making strategic decisions about market entry into Germany because it provides specific information about the capabilities of the ATACMS missile, which could be relevant to companies considering the development of similar systems. The question is well-structured and provides a clear answer to the query, making it easy to understand the types of systems that the ATACMS missile could damage. The answer also provides some context about the missile's capabilities and limitations, which could be useful for companies considering the development of similar systems.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to ATACMS missiles, which are a specific type of missile system. The context of the question is not provided, and the reader needs to have prior knowledge of ATACMS missiles to understand the question. Therefore, the question is not context-independent and requires additional information to be understood. \n\n"
+    },
+    {
+        "context": "A 12.12m (39.76 ft) bratwurst, which pub bosses claim to be the UK's longest, has been a sizzling hit for punters.Chefs at The Castle in Droitwich Spa cooked the colossal banger, to celebrate Oktoberfest, the annual German beer event most associated with Munich.They said they had followed a traditional German recipe, and then served it alongside crispy onions, mustard and curry ketchup.The bratwurst's length symbolises the 1,212km (753 miles) between the pub and Theresienwiese, the home of Munich's Oktoberfest celebration.",
+        "question": "How long is the UK's longest bratwurst?\n",
+        "answer": "12.12m (39.76 ft)"
+    },
+    {
+        "context": "The Wolf Ecology Project ran over 15 years until 1995. What did it reveal about wolves that was new?One of our most surprising findings, which hadn't been documented before \u2013 there weren't GPS collars then \u2013 was the distance wolves can travel: easily hundreds of miles within months. We would often get radio-collars returned from animals that had been shot huge distances away from their last signal or there would be a faraway sighting of a collared wolf. Our longest dispersal, Wolf 8551, was killed having travelled a straight-line distance of 540 miles north into Canada.",
+        "question": "How far can wolves travel in a short period of time?\n",
+        "answer": "Wolves can travel hundreds of miles within months.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The answer is clear and unambiguous, and it directly addresses the question. The context provides sufficient information to support the answer, and the answer is based on specific evidence from the Wolf Ecology Project. The answer is well-organized and easy to follow, making it accessible to a general audience. The language is clear and concise, and the tone is neutral and informative.\n",
+        "relevance_score": 4,
+        "relevance_eval": "This question is useful for people making strategic decisions about market entry into Germany because it provides information about the natural environment and the potential impact of wolves on the local ecosystem. This information can be used to assess the risks and opportunities associated with market entry, such as the potential for competition with local businesses or the need for specialized logistics and transportation. Additionally, the question's focus on the physical capabilities of wolves can be used to inform decisions about the feasibility of certain business models or supply chain strategies. Overall, the question is relevant and useful for strategic decision-making in this context.\n"
+    },
+    {
+        "context": "Tony Webb, Michael Papadopoulos, and I found in the Illusory Benefits of Working Longer that without working, 79% of people in 2028 age 62-70 would not be able to afford their pre-retirement living standards or stay about de-facto poverty levels. And we included everything we could estimate \u2014 defined benefit plan benefits, Social Security, home equity!",
+        "question": "What percentage of people aged 62-70 in 2028 would not be able to afford their pre-retirement living standards without working?\n",
+        "answer": "79%",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the context.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for market entry strategy as it provides a clear indication of the potential workforce available for companies looking to enter the German market. Knowing the percentage of people in this age group who would not be able to afford their pre-retirement living standards without working can help companies to better understand the potential demand for their products or services, and to make informed decisions about their market entry strategy. For example, companies that offer affordable healthcare or financial services may find this information particularly useful. Additionally, this question can also help companies to identify potential target markets and tailor their products or services to meet the needs of this demographic.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific age group and a year, which implies that the context is a specific population or a specific economic scenario. Without additional information about the cost of living, the population's income, or the economic conditions in 2028, it is difficult to understand the question. Therefore, the question is not context-independent. "
+    },
+    {
+        "context": "And can we really say we don't have a retirement crisis for regular working households when new 2022 data from the Federal Reserve bank the Survey of Consumer Finance, shows the middle 70% of households by income aged 50-65 have a median retirement account savings of $86,000 and a median debt of $89,700? If you withdraw from your $86,000, say between age 65 and 70, traveling, buying a car\u2014 you'll look comfortable. But all that money could be gone by your mid-seventies and then it's Social Security all the way to the end.\nAbout 40% of middle-class older workers are projected to be downwardly mobile into poverty or near poverty when they reach age 62 and beyond. Disagreements rest on the definition of 'poverty.' How can a serious researcher say $13,000 a year is a standard to shoot for; I reject the U.S. definition of poverty and so do most experts and practitioners.",
+        "question": "What is the median retirement account savings of the middle 70% of households by income aged 50-65?\n",
+        "answer": "$86,000.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context directly states the median retirement account savings of the middle 70% of households by income aged 50-65.\n",
+        "relevance_score": 5,
+        "relevance_eval": "The question is very useful for people making strategic decisions about market entry into Germany because it provides information about the retirement account savings of households in a specific age group. This information can be used to understand the financial situation of households in this age group and make informed decisions about retirement planning. Additionally, the question provides a specific metric (median savings) that can be used to compare different countries or regions. \n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific age range and a specific percentage of households, which implies that the question depends on additional information to be understood. \n"
+    },
+    {
+        "context": "The unusual and specialized behavior, filmed by researchers as part of a new study, could help anoles hide from predators on land.\nThe wee anole relies mostly on camouflage to hide from predators such as birds, snakes, mammals and other lizards. And when camouflage fails, waiting out a threat underwater is an effective survival strategy.\nExplorations\nKaspar Hauser, an enigmatic man thought by some to be a 'lost prince,' died in 1833. Much less is known about his origin story.\nHauser appeared seemingly out of nowhere in what is now Nuremberg, Germany, on May 26, 1828, when he was about 16 years old. He was found wandering the town square with no identification and with an unsigned letter clutched in his hand.\nNearly 200 years later, scientists have used a new DNA analysis to solve a longstanding mystery about Hauser's suspected ties to royalty.\nAcross the universe\nSince 1977, NASA's Voyager 1 spacecraft has been exploring the solar system and beyond.",
+        "question": "What is the name of the man who appeared in the town square of Nuremberg, Germany in 1828?\n",
+        "answer": "Kaspar Hauser.",
+        "groundedness_score": 1,
+        "groundedness_eval": "The question is not answerable with the given context because the context does not mention the man who appeared in the town square of Nuremberg, Germany in 1828. The context only mentions Kaspar Hauser, but it does not provide any information about him appearing in the town square of Nuremberg, Germany in 1828. The context is about anoles and DNA analysis, and it does not provide any relevant information about Kaspar Hauser.\n"
+    },
+    {
+        "context": "The left of the party is diminished, but some of its senior figures are setting out a narrative that chimes with a wider audience. John McDonnell, the former shadow chancellor who was suspended from the party for voting against the government on an amendment calling on it to scrap the two-child limit on benefits, is among them. He believes that without more optimism and ambition from Labour, the beneficiary will be Nigel Farage and Reform UK.\n'It's one of the shortest honeymoons I've ever seen in politics,' he said. 'It was a toxic inheritance and people understand that. People want us to say how bad it is, of course, but then tell us how we're going to get through it \u2013 give us a bit of hope.\n'I was worried that if we didn't deliver by midterm, people would become disillusioned and it would be the far right that benefits from it, as we've seen in France and Germany. If we're threatened with an austerity budget, it just feeds Reform and Farage and all the rest. That's my worry.'",
+        "question": "What is the name of the former shadow chancellor who was suspended from the party for voting against the government on an amendment calling on it to scrap the two-child limit on benefits?\n",
+        "answer": "John McDonnell.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the reference to John McDonnell, who is explicitly mentioned as the former shadow chancellor who was suspended from the party for voting against the government on an amendment calling on it to scrap the two-child limit on benefits.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for people making strategic decisions about market entry into Germany, as it provides information about the UK's internal politics and the policies of the ruling party. It can help them understand the potential risks and opportunities associated with entering the German market.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question refers to a specific event and a particular party, which makes it context-dependent. The reader needs to know the context of the event and the party to understand the question.\n"
+    },
+    {
+        "context": "\"The wealthier you become, the more you want perfect security,\" says Setha Low, the director of the Public Space Research Group, a center at the City University of New York that focuses on the access and control of everything from city parks to gated communities. \"And that produces an industry making a lot of money off of people's fear.\" Much like the military-industrial complex, she says, \"there's a security-industrial complex \u2014 this entire sector of our economy being fed by people wanting this kind of security.\"\nI'm relieved when we pull away before running into an Indian Creek police patrol. But there's no doubt we've been seen. In an increasingly atomized age, the Billionaire Bunker is an increasingly insular and secure enclave. If you want to live in a part of America that no outsiders can set foot in, Indian Creek is the most gated community in a country of gates.",
+        "question": "What is the most gated community in the United States?\n",
+        "answer": "Indian Creek is the most gated community in the United States.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context provides specific information about Indian Creek and its reputation as the most gated community in the United States.\n",
+        "relevance_score": 2,
+        "relevance_eval": "The question is too specific and focused on a particular aspect of the US market, which may not be relevant to strategic decisions about market entry into Germany. It does not provide any context or information about the factors that would influence a company's decision to enter the German market. Therefore, the question is not particularly useful for strategic decision-making.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about what is meant by 'gated community'. Is it referring to a specific type of community, like a neighborhood with a high level of security? Or is it referring to a specific aspect of these communities, like the number of gates? Without additional information, the question is unclear. \n"
+    },
+    {
+        "context": "That year, Indian Creek began its most substantial security upgrade in decades \u2014 a high-tech radar fence encircling the island. According to public records, the system features 10 thermal cameras and 17 radar sensors mounted at nine locations along the island's perimeter, in addition to 30 traditional cameras. The radar sensors overlap, creating what the records call a \"geofence\" that can detect anything that comes within a half-mile of the shore. The project cost about $1.6 million \u2014 equal to about a quarter of the village's annual budget.",
+        "question": "How many radar sensors are mounted at locations along the island's perimeter?\n",
+        "answer": "17 radar sensors.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable because the context explicitly states that there are 17 radar sensors mounted at nine locations along the island's perimeter. The context does not provide any ambiguity or uncertainty regarding the number of radar sensors.\n",
+        "relevance_score": 5,
+        "relevance_eval": "This question is extremely useful for market entry decision-making as it provides specific information about the island's infrastructure, which can be crucial for understanding the island's security and defense capabilities. This information can help companies assess the level of risk associated with entering the island's market and make informed decisions about their investment strategies.\n",
+        "standalone_score": 1,
+        "standalone_eval": "The question lacks context about the island in question, making it impossible to determine the answer without additional information. The term 'island's perimeter' is ambiguous and could refer to any geographical location, making the question context-dependent.\n"
+    },
+    {
+        "context": "Nvidia looks set to discontinue production of its flagship GeForce RTX 4090 graphics card range next month to set the scene for an expected RTX 5000 launch including an RTX 5090 and likely RTX 5080 in late 2024 or early 2025. (Wccftech The move is expected to allow add in board (AIB) partners to clear stock of the now two year old model, but could result in shortages of the highly desirable high-end graphics card in the lead up to Christmas as supplies run dry.\nNvidia's GeForce RTX 4090\nDespite it's high price, which still sees most variations from board partners such as Asus, Gigabyte, MSI and Palit rarely dip much below $2,000, The RTX 4090 still sells well making up one percent of the Steam Hardware Survey's count of GPUs, with that count having risen over the last three months and eclipsing that of the RTX 4080. That is likely thanks to the RTX 4080 being discontinued after the RTX 4080 Super launched earlier this year.",
+        "question": "How much do most variations of the Nvidia GeForce RTX 4090 graphics card typically sell for?\n",
+        "answer": "Most variations of the Nvidia GeForce RTX 4090 graphics card typically sell for around $2,000.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the information provided in the context, as it mentions that most variations of the Nvidia GeForce RTX 4090 graphics card typically sell for $2,000 or more. The context also mentions that the RTX 4090 still sells well, which suggests that the price is stable and not likely to drop significantly. The question is not ambiguous, as the context provides a clear answer to the question.\n",
+        "relevance_score": 4,
+        "relevance_eval": "The question is very specific and focused on a particular product, which makes it useful for people who are considering purchasing the Nvidia GeForce RTX 4090. However, the question does not provide any context about the specific market or region, which might limit its usefulness for people who are considering market entry into Germany. Additionally, the price of the graphics card can fluctuate over time, so the answer might not be accurate at the time of reading. \n",
+        "standalone_score": 2,
+        "standalone_eval": "The question does not provide any context about a specific market, region, or time frame, which makes it difficult to determine the exact price. Additionally, the question does not specify which variations of the Nvidia GeForce RTX 4090 are being referred to, which could lead to different prices depending on the specific model. \n"
+    },
+    {
+        "context": "That's right, in October this year, the GT-R R35 will disappear from Nissan's lineup in the U.S. And to celebrate the end of an era, Japan's third biggest carmaker is going out in style by offering hardcore fans access to two special edition models.\nThe GT-R will go out in style through two special edition models.\nWith a hand-crafted 565-hp twin turbocharged 3.8-liter V6, four-wheel-drive, four-wheel-steer, 6-piston Brembo brakes, multiple race victories in half a dozen countries, and a launch control from hell, the GT-R is truly a one of a kind.\nThe new GT-R T-spec celebrates the specially curated editions of the GT-R over the years, while the GT-R T-spec Takumi Edition honors the artisans who put their hearts and souls into every model, hand-building the complex V6 engines. Enthusiasts will appreciate the NISMO carbon-ceramic brakes, fitted as standard, and gold-painted 20-inch NISMO RAYS forged wheels, the NISMO-tuned Vehicle Dynamic Control, and wider front fenders.",
+        "question": "What is the horsepower of the hand-crafted 565-hp twin turbocharged 3.8-liter V6 engine?\n",
+        "answer": "The horsepower of the hand-crafted 565-hp twin turbocharged 3.8-liter V6 engine is 565.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly and unambiguously answerable with the given context, as the context explicitly mentions the horsepower of the hand-crafted 565-hp twin turbocharged 3.8-liter V6 engine.\n\n",
+        "relevance_score": 5,
+        "relevance_eval": "This information is very useful for people making strategic decisions about market entry into Germany, as it provides a clear and specific detail about the engine specifications of a particular vehicle. This information can be used to assess the vehicle's performance capabilities and make informed decisions about its potential for success in the German market.\n",
+        "standalone_score": 5,
+        "standalone_eval": "The question is self-contained and does not require any additional information to be understood. The horsepower of the engine is explicitly stated in the question itself.\n"
+    },
+    {
+        "context": "Advertisement\nArticle continues below this ad\nAfter a traditional parade and Reiter's ceremonial keg-tapping, festivalgoers inside and outside the tents turned their attention to beer and food, with roasted chicken, bratwurst and pretzels being among the most popular. Amusement park rides offered entertainment for young merrymakers who had journeyed to the fairgrounds with their parents.\nLike many others there on Saturday, Mikael Caselitz, 24, was born and raised in Munich and has attended Oktoberfest for years. He said everyone should travel to the city for the festival at least once in their lives.\n'It can get really crowded and disgusting when people puke on the side of the road,' he joked, 'but overall it's a really fun experience.'",
+        "question": "How many years has Mikael Caselitz been attending Oktoberfest?\n",
+        "answer": "Mikael Caselitz has been attending Oktoberfest for years.\n\nThis factoid question is not answer"
+    },
+    {
+        "context": "Since 1977, NASA's Voyager 1 spacecraft has been exploring the solar system and beyond.\nThe probe was the first spacecraft to cross the heliosphere \u2014 the sun's bubble of magnetic fields and particles that extends beyond planetary orbits \u2014 and venture into interstellar space, or space between stars. Along the way, Voyager 1 found a thin ring around Jupiter and two new Jovian moons as well as five new moons orbiting Saturn.\nNow, the space agency may have found a way to keep the 47-year-old probe communicating with Earth from billions of miles away.\nNASA engineers successfully fired up a set of thrusters Voyager 1 hasn't used in decades, which could help keep its antenna pointed at Earth.\nIn other space news, NASA astronauts Butch Wilmore and Suni Williams will be able to vote via absentee ballot from low-Earth orbit in November's election. The duo's stay aboard the International Space Station was extended until 2025 after arriving in June on a test flight of Boeing's troubled Starliner spacecraft. The trip was initially expected to last about eight days.",
+        "question": "How old is the Voyager 1 spacecraft?\n",
+        "answer": "The Voyager 1 spacecraft is 47 years old.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is answerable with the given context because the context explicitly states that Voyager 1 has been exploring the solar system since 1977, which allows us to determine its age.\n\n\n"
+    },
+    {
+        "context": "The REJO AF1 is a state-of-art heating device specifically designed for granular sticks, providing an ideal pairing with its own branded tobacco granular sticks OICES and herbal granular sticks TOZE. Leveraging advanced hot airflow heating technology, REJO AF1 ensures that each tobacco granule is evenly and thoroughly heated. This method preserves the natural tobacco aroma while reducing the production of harmful chemicals, delivering a richer and more satisfying smoking experience.\nThree main colors of the new REJO AF1 Heating Device\nThe REJO Mate Air is another innovative addition to REJO's product lineup, ideal for users who prioritize portability without compromising performance. This compact and lightweight device is equipped with advanced round heating technology to produce dense clouds and full-bodied flavor. Its sleek design and user-friendly features make it an excellent choice for both new and experienced HNB users.\nFull series of the new REJO Mate Air Heating Device\nIncreasing Global Reach",
+        "question": "What is the name of the heating technology used in the REJO AF1 device?\n",
+        "answer": "Hot airflow heating technology.",
+        "groundedness_score": 1,
+        "groundedness_eval": "The context does not provide enough information to answer the question unambiguously.\n"
+    },
+    {
+        "context": "Ultimately, Ukraine continues to argue that the ability to use Western-supplied long-range missiles inside Russia is part of the complex jigsaw puzzle of ending this war on Kyiv's terms \u2014 and a way to show Russia it cannot outlast Ukraine's allies.\nZelensky is heading to the US on the one hand buoyed by the Kursk offensive providing fresh evidence of both Ukrainian ingenuity and, he argues, the flimsiness of Russian 'red lines,' but on the other hand motivated by the prospect of a third winter with critical electricity shortages, and still inadequate supplies of equipment and manpower.\n'We need to have this long-range capability not only on the occupied territory of Ukraine, but also on Russian territory,' he told a large gathering of Ukraine's allies at the US' Ramstein Air Force Base in Germany earlier this month, 'so Russia is motivated to seek peace.'",
+        "question": "What is the motivation behind Ukraine's desire to use Western-supplied long-range missiles inside Russia?\n",
+        "answer": "The motivation behind Ukraine's desire to use Western-supplied long-range missiles inside Russia is to show Russia it cannot outlast Ukraine's allies.",
+        "groundedness_score": 4,
+        "groundedness_eval": "The context provides a clear motivation behind Ukraine's desire to use Western-supplied long-range missiles inside Russia, as it is driven by a desire to show Russia that it cannot outlast Ukraine's allies and to demonstrate the effectiveness of Ukrainian ingenuity in the face of Russian'red lines'. This motivation is explicitly stated by Zelensky in the context, and is also supported by the mention of the Kursk offensive and the prospect of a third winter with critical electricity shortages. The context provides a clear and unambiguous answer to the question, making it a 4 out of 5 in terms of total rating.\n",
+        "relevance_score": 1,
+        "relevance_eval": "This question is not useful as it lacks context and does not provide any relevant information about Ukraine's motivations or the geopolitical situation. It appears to be a simplistic or misleading question that does not provide any useful insights for strategic decision-making.\n",
+        "standalone_score": 2,
+        "standalone_eval": "The question lacks specific information about the context, such as the current geopolitical situation, the actions of Russia, or the specific missiles in question. Therefore, it is difficult to understand the motivation behind Ukraine's desire without additional context. The question seems to be asking for a general understanding of the situation, but it does not provide enough details to make sense of it. \n\n"
+    },
+    {
+        "context": "The revelers celebrated Saturday to mark the official opening of the world's largest folk festival. Mayor Dieter Reiter started the celebration at noon when he inserted the tap into the first beer keg.\nAdvertisement\nArticle continues below this ad\nServers immediately began ferrying beers \u2014 each carrying up to 10 glass mugs \u2014 across the packed tents. Guests started clinking their mugs and taking deep gulps of beer in the stuffy heat inside as bands played traditional Bavarian folk music. But plaques reminded them not to dance on the tables.\nThe festival runs through Oct. 6 in 18 large tents covering the Theresienwiese fairground. About 6 million visitors are expected over the festival's 16 days \u2014 up to 600,000 each day \u2014 and can expect to shell out between 13.60 and 15.30 euros ($15.12 to $17.01) for a big mug of beer. This year's prices are roughly 3.87% more than in 2023.",
+        "question": "How many large tents are covering the Theresienwiese fairground?\n",
+        "answer": "18.",
+        "groundedness_score": 5,
+        "groundedness_eval": "The question is clearly answerable with the given context, as the context explicitly states that the festival runs through Oct. 6 in 18 large tents covering the Theresienwiese fairground, and provides a specific number of visitors expected each day. The answer can be deduced directly from the context.\n\n\n",
+        "relevance_score": 4,
+        "relevance_eval": "This question is very useful for people who are planning to attend the Oktoberfest festival in Munich, Germany, as it provides a quick and easy way to get an idea of the scale of the event. It can also be useful for people who are interested in the logistics of large events, such as event planners or festival organizers. However, it may not be as useful for people who are not familiar with the Oktoberfest festival or who are not interested in the event's logistics.\n"
+    }
+]
